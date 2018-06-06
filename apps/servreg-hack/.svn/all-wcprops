@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/servreg-hack
+END
+Makefile.servreg-hack
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/servreg-hack/Makefile.servreg-hack
+END
+servreg-hack.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/servreg-hack/servreg-hack.c
+END
+servreg-hack.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/servreg-hack/servreg-hack.h
+END

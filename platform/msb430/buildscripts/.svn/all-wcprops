@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts
+END
+Makefile.unix
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/Makefile.unix
+END
+Makefile.freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/Makefile.freebsd
+END
+Makefile.win
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/Makefile.win
+END

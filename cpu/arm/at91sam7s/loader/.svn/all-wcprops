@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader
+END
+codeprop-otf.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/codeprop-otf.c
+END
+ram-segments.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/ram-segments.c
+END
+elfloader-arch-otf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/elfloader-arch-otf.h
+END
+elfloader-otf.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/elfloader-otf.c
+END
+empty-symbols.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/empty-symbols.c
+END
+codeprop-otf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/codeprop-otf.h
+END
+ram-segments.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/ram-segments.h
+END
+elfloader-otf.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/loader/elfloader-otf.h
+END

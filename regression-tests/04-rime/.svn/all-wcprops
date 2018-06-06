@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime
+END
+05-sky-runicast.csc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/05-sky-runicast.csc
+END
+08-sky-collect.csc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/08-sky-collect.csc
+END
+02-cooja-rucb.csc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/02-cooja-rucb.csc
+END
+10-cooja-mesh.csc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/10-cooja-mesh.csc
+END
+06-sky-trickle.csc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/06-sky-trickle.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/Makefile
+END
+03-sky-abc.csc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/03-sky-abc.csc
+END
+04-sky-deluge.csc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/04-sky-deluge.csc
+END
+01-cooja-collect.csc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/01-cooja-collect.csc
+END
+09-cooja-trickle.csc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/09-cooja-trickle.csc
+END
+07-sky-collect.csc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/07-sky-collect.csc
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/README.md
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/Makefile
+END
+uip6-bridge-tap.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/uip6-bridge-tap.c
+END
+sicslow_ethernet.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/sicslow_ethernet.c
+END
+bridge-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/bridge-conf.h
+END
+fakeuip.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/fakeuip.c
+END
+sicslow_ethernet.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/uip6_bridge/sicslow_ethernet.h
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher
+END
+JlinkARM.DLL
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/JlinkARM.DLL
+END
+_socket.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/_socket.pyd
+END
+stm32w_flasher.exe
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/stm32w_flasher.exe
+END
+pyexpat.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/pyexpat.pyd
+END
+win32api.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/win32api.pyd
+END
+bz2.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/bz2.pyd
+END
+FTD2XX.dll
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/FTD2XX.dll
+END
+_ssl.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/_ssl.pyd
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/README.md
+END
+CompositeForSTM32W.bin
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/CompositeForSTM32W.bin
+END
+_ctypes.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/_ctypes.pyd
+END
+python26.dll
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/python26.dll
+END
+d2xx._d2xx.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/d2xx._d2xx.pyd
+END
+main_rfbl.s37
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/main_rfbl.s37
+END
+w9xpopen.exe
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/w9xpopen.exe
+END
+select.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/select.pyd
+END
+unicodedata.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/unicodedata.pyd
+END
+win32pipe.pyd
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/win32pipe.pyd
+END
+pywintypes26.dll
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/stm32w_flasher/pywintypes26.dll
+END

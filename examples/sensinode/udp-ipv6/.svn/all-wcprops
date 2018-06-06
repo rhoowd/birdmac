@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/udp-ipv6
+END
+ping6.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/udp-ipv6/ping6.c
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/udp-ipv6/server.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/udp-ipv6/Makefile
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/udp-ipv6/client.c
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/udp-ipv6/project-conf.h
+END

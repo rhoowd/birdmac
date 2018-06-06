@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/dev/sensors
+END
+battery-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/dev/sensors/battery-sensor.c
+END
+mts300.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/dev/sensors/mts300.c
+END
+mts300.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/dev/sensors/mts300.h
+END

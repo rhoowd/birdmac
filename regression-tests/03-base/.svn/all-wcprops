@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/03-base
+END
+x03-crosslevel.csc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/03-base/x03-crosslevel.csc
+END
+02-sky-coffee.csc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/03-base/02-sky-coffee.csc
+END
+04-sky-checkpointing.csc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/03-base/04-sky-checkpointing.csc
+END
+01-multithreading.csc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/03-base/01-multithreading.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/03-base/Makefile
+END

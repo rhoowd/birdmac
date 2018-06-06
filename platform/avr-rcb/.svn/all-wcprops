@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-rcb
+END
+contiki-rcb-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-rcb/contiki-rcb-main.c
+END
+Makefile.avr-rcb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-rcb/Makefile.avr-rcb
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-rcb/contiki-conf.h
+END
+contiki-rcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-rcb/contiki-rcb.h
+END
+loadable_prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-rcb/loadable_prg.c
+END

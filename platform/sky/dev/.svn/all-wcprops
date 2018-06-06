@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/i2c.c
+END
+light-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/light-sensor.c
+END
+sht11-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/sht11-arch.h
+END
+battery-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/battery-sensor.c
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/i2c.h
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/button-sensor.c
+END
+light-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/light-sensor.h
+END
+sky-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/sky-sensors.c
+END
+temperature-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/temperature-sensor.c
+END
+sky-sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/sky-sensors.h
+END
+radio-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/radio-sensor.c
+END
+xmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/xmem.c
+END
+light.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/light.c
+END
+temperature-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/temperature-sensor.h
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/dev/light.h
+END

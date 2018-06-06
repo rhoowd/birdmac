@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/apps
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/apps/Makefile
+END
+battery-monitor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/micaz/apps/battery-monitor.c
+END

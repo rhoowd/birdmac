@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/x86
+END
+mtarch.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/x86/mtarch.c
+END
+Makefile.x86
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/x86/Makefile.x86
+END
+mtarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/x86/mtarch.h
+END

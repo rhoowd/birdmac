@@ -1,0 +1,8 @@
+CONTIKI = ../..
+
+all: app
+
+CONTIKIDIRS += $(CONTIKI)/libsync $(CONTIKI)/liblog $(CONTIKI)/libdata
+PROJECT_SOURCEFILES += dclock.c birdlog.c birddata.c
+
+include $(CONTIKI)/Makefile.include

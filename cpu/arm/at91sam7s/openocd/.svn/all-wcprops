@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd
+END
+openocd_reset
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/openocd_reset
+END
+arm7_wig.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/arm7_wig.cfg
+END
+arm7_wig_reset.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/arm7_wig_reset.cfg
+END
+AT91SAM7x_init.script
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/AT91SAM7x_init.script
+END
+openocd_flash
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/openocd_flash
+END
+arm7_wig_flash.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/arm7_wig_flash.cfg
+END

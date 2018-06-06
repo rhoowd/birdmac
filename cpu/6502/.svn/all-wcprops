@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/6502
+END
+6502def.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/6502/6502def.h
+END
+Makefile.6502
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/6502/Makefile.6502
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/6502/README.md
+END

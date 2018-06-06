@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w
+END
+motelist-linux
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/motelist-linux
+END
+serialdump-windows.exe
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/serialdump-windows.exe
+END
+serialdump-linux
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/serialdump-linux
+END
+tapslip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/tapslip6.c
+END
+serialdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/stm32w/serialdump.c
+END

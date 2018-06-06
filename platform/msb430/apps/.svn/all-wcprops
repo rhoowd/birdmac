@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/apps
+END
+test-sht11.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/apps/test-sht11.c
+END
+Makefile.apps
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/apps/Makefile.apps
+END
+test-abc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/apps/test-abc.c
+END
+acc-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/apps/acc-test.c
+END
+sd-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/apps/sd-test.c
+END

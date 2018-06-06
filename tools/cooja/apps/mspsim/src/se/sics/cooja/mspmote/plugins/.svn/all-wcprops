@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins
+END
+MspCLI.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/MspCLI.java
+END
+CodeUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/CodeUI.java
+END
+MspCodeWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/MspCodeWatcher.java
+END
+CodeVisualizerSkin.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/CodeVisualizerSkin.java
+END
+MspCycleWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/MspCycleWatcher.java
+END
+MspBreakpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/MspBreakpoint.java
+END
+BreakpointsUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/BreakpointsUI.java
+END
+MspStackWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/src/se/sics/cooja/mspmote/plugins/MspStackWatcher.java
+END

@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/light.h
+END
+ext-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/ext-sensor.h
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/i2c.c
+END
+light-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/light-sensor.c
+END
+sht11-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/sht11-arch.h
+END
+battery-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/battery-sensor.c
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/i2c.h
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/button-sensor.c
+END
+light-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/light-sensor.h
+END
+acc-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/acc-sensor.c
+END
+sky-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/sky-sensors.c
+END
+acc-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/acc-sensor.h
+END
+sht15.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/sht15.c
+END
+radio-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/radio-sensor.c
+END
+sky-sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/sky-sensors.h
+END
+xmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/xmem.c
+END
+light.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/light.c
+END
+ext-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/ext-sensor.c
+END
+sht15.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/wismote/dev/sht15.h
+END

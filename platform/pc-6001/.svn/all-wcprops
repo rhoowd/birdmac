@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/Makefile
+END
+contiki-client-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-client-main.c
+END
+contiki-serial-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-serial-main.c
+END
+Makefile.pc-6001
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/Makefile.pc-6001
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-main.c
+END
+contiki-loader-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-loader-main.c
+END
+contiki-minimal-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-minimal-main.c
+END
+contiki-server-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-server-main.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-conf.h
+END
+contiki-desktop-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/contiki-desktop-main.c
+END

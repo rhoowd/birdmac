@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/cc2531-usb-demo
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/cc2531-usb-demo/Makefile
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/cc2531-usb-demo/Makefile.target
+END
+cc2531-usb-demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/cc2531-usb-demo/cc2531-usb-demo.c
+END

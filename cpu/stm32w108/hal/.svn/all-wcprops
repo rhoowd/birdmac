@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal
+END
+hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/hal.h
+END
+error-def.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/error-def.h
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/error.h
+END
+token-phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/token-phy.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/deluge
+END
+Makefile.deluge
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/deluge/Makefile.deluge
+END
+deluge.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/deluge/deluge.c
+END
+deluge.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/deluge/deluge.h
+END

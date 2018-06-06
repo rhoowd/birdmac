@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/plb-contiki/!svn/ver/23/libsync
+END
+dclock.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/plb-contiki/!svn/ver/23/libsync/dclock.c
+END
+dclock.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/plb-contiki/!svn/ver/3/libsync/dclock.h
+END

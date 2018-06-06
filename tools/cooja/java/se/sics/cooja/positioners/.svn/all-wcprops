@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/positioners
+END
+LinearPositioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/positioners/LinearPositioner.java
+END
+EllipsePositioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/positioners/EllipsePositioner.java
+END
+ManualPositioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/positioners/ManualPositioner.java
+END
+RandomPositioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/positioners/RandomPositioner.java
+END

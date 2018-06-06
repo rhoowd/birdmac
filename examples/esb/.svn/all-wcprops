@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb/Makefile.target
+END
+beeper.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb/beeper.c
+END
+blinker.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb/blinker.c
+END
+radio-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb/radio-test.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb/Makefile
+END
+fft-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/esb/fft-test.c
+END

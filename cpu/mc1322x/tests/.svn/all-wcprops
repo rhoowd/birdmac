@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests
+END
+tests.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/tests.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/printf.c
+END
+tests.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/tests.h
+END
+led.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/led.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/config.h
+END
+asm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/asm.c
+END
+u1u2-loopback.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/u1u2-loopback.c
+END
+blink-blue.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/blink-blue.c
+END
+flasher.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/flasher.c
+END
+per.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/per.c
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/adc.c
+END
+romimg.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/romimg.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/Makefile
+END
+tmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/tmr.c
+END
+pwm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/pwm.c
+END
+blink-red.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/blink-red.c
+END
+sleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/sleep.c
+END
+put.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/put.c
+END
+nvm-read.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/nvm-read.c
+END
+tmr-ints.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/tmr-ints.c
+END
+put.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/put.h
+END
+blink-white.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/blink-white.c
+END
+autoack-rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/autoack-rx.c
+END
+autoack-tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/autoack-tx.c
+END
+xtal-trim.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/xtal-trim.c
+END
+uart1-loopback.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/uart1-loopback.c
+END
+nvm-write.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/nvm-write.c
+END
+blink-allio.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/blink-allio.c
+END
+blink-green.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/blink-green.c
+END
+wdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/wdt.c
+END
+rftest-rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/rftest-rx.c
+END
+rftest-tx.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tests/rftest-tx.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/serial-flash
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/serial-flash/Makefile
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/serial-flash/flash.c
+END

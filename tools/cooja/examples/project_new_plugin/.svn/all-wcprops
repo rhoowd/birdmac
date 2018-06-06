@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/examples/project_new_plugin
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/examples/project_new_plugin/build.xml
+END
+cooja.config
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/examples/project_new_plugin/cooja.config
+END

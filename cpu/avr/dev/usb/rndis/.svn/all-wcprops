@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis
+END
+cdc_ecm.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/cdc_ecm.c
+END
+cdc_eem.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/cdc_eem.c
+END
+rndis.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/rndis.c
+END
+rndis_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/rndis_task.c
+END
+cdc_ecm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/cdc_ecm.h
+END
+ndis.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/ndis.h
+END
+cdc_eem.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/cdc_eem.h
+END
+rndis_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/rndis_protocol.h
+END
+rndis_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/rndis/rndis_task.h
+END

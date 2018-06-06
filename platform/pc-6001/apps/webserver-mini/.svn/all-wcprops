@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini
+END
+http-strings
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/http-strings
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd.h
+END
+httpd-fsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-fsdata.h
+END
+httpd-cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-cgi.h
+END
+webserver-nogui.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/webserver-nogui.h
+END
+httpd-fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-fs.c
+END
+Makefile.webserver-mini
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/Makefile.webserver-mini
+END
+httpd-cfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-cfs.c
+END
+httpd-fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-fs.h
+END
+httpd-cfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-cfs.h
+END
+http-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/http-strings.c
+END
+http-strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/http-strings.h
+END
+webserver-nogui.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/webserver-nogui.c
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd.c
+END
+httpd-fsdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-fsdata.c
+END
+httpd-cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/apps/webserver-mini/httpd-cgi.c
+END

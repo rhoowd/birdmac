@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/09-collect-lossy
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/09-collect-lossy/Makefile
+END
+01-sky-shell-collect-lossy.csc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/09-collect-lossy/01-sky-shell-collect-lossy.csc
+END

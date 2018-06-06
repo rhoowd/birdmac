@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja
+END
+Makefile.cooja
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/Makefile.cooja
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/contiki-conf.h
+END
+contiki-cooja-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/contiki-cooja-main.c
+END
+netstack-conf-example.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/netstack-conf-example.h
+END
+rtimer-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/rtimer-arch.c
+END
+mtarch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/mtarch.c
+END
+rtimer-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/rtimer-arch.h
+END
+mtarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cooja/mtarch.h
+END

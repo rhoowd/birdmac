@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/avrora
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/avrora/build.xml
+END
+cooja.config
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/avrora/cooja.config
+END

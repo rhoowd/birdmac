@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/setup.py
+END
+install-pyjtag.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/install-pyjtag.nsi
+END
+gen-ihex.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/gen-ihex.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/readme.txt
+END
+jtag.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/jtag.py
+END
+elf.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/elf.py
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/makefile
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/msb430/buildscripts/jtag/pyjtag/license.txt
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/button-sensor.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/leds-arch.c
+END
+slip-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/slip-arch.c
+END
+adc-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/adc-sensor.h
+END
+usb-serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/usb-serial.c
+END
+button-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/button-sensor.h
+END
+io-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/io-arch.h
+END
+leds-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/leds-arch.h
+END
+smartrf-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/smartrf-sensors.c
+END
+usb-serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/usb-serial.h
+END
+adc-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/dev/adc-sensor.c
+END

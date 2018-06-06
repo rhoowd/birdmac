@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board
+END
+redbee-econotag.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/redbee-econotag.h
+END
+quahogcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/quahogcon.h
+END
+redbee-r1.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/redbee-r1.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/board.h
+END
+freescale-ncb.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/freescale-ncb.h
+END
+redbee-usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/redbee-usb.h
+END
+m12.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/m12.h
+END
+std_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/std_conf.h
+END
+redbee-dev.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/board/redbee-dev.h
+END

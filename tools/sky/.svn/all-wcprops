@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky
+END
+msp430-bsl-windows.exe
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/msp430-bsl-windows.exe
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/Makefile
+END
+motelist-linux
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/motelist-linux
+END
+serialdump-windows.exe
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/serialdump-windows.exe
+END
+motelist-macos
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/motelist-macos
+END
+python23.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/python23.dll
+END
+msp430-bsl-linux
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/msp430-bsl-linux
+END
+serialdump-linux
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/serialdump-linux
+END
+check-size
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/check-size
+END
+plot-size
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/plot-size
+END
+serialdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/serialdump.c
+END
+motelist-windows.exe
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sky/motelist-windows.exe
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/slip-cmd
+END
+cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/slip-cmd/cmd.h
+END
+packetutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/slip-cmd/packetutils.c
+END
+packetutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/slip-cmd/packetutils.h
+END
+Makefile.slip-cmd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/slip-cmd/Makefile.slip-cmd
+END
+cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/slip-cmd/cmd.c
+END

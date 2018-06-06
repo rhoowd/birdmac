@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/13-ipv6-apps
+END
+x02-sky-coap.csc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/13-ipv6-apps/x02-sky-coap.csc
+END
+rest_rpl_coap.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/13-ipv6-apps/rest_rpl_coap.js
+END
+01-sky-servreg-hack.csc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/13-ipv6-apps/01-sky-servreg-hack.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/13-ipv6-apps/Makefile
+END

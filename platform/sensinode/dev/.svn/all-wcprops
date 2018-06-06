@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev
+END
+n740.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/n740.h
+END
+adc-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/adc-sensor.c
+END
+m25p16.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/m25p16.h
+END
+sensinode-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/sensinode-sensors.c
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/button-sensor.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/leds-arch.c
+END
+slip-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/slip-arch.c
+END
+models.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/models.c
+END
+sensinode-sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/sensinode-sensors.h
+END
+button-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/button-sensor.h
+END
+models.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/models.h
+END
+n740.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/n740.c
+END
+m25p16.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sensinode/dev/m25p16.c
+END

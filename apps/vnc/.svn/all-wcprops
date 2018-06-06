@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc
+END
+Makefile.vnc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/Makefile.vnc
+END
+vnc-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc-dsc.h
+END
+vnc-viewer.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc-viewer.c
+END
+vnc-draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc-draw.h
+END
+vnc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc.c
+END
+vnc-viewer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc-viewer.h
+END
+vnc.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc.h
+END
+vnc-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/vnc/vnc-dsc.c
+END

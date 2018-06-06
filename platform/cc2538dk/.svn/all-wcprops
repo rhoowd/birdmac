@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/contiki-main.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/contiki-conf.h
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/README.md
+END
+startup-gcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/startup-gcc.c
+END
+Makefile.cc2538dk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/Makefile.cc2538dk
+END

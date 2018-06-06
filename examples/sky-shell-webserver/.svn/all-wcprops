@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sky-shell-webserver
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sky-shell-webserver/Makefile
+END
+sky-shell-webserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sky-shell-webserver/sky-shell-webserver.c
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sky-shell-webserver/Makefile.target
+END

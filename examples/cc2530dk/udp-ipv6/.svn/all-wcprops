@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6/client.c
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6/project-conf.h
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6/Makefile.target
+END
+ping6.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6/ping6.c
+END
+server.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6/server.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/udp-ipv6/Makefile
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/calc
+END
+calc-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/calc/calc-dsc.c
+END
+Makefile.calc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/calc/Makefile.calc
+END
+calc-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/calc/calc-dsc.h
+END
+calc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/calc/calc.c
+END

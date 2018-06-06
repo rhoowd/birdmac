@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/mrf24j40
+END
+mrf24j40.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/mrf24j40/mrf24j40.h
+END
+mrf24j40.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/mrf24j40/mrf24j40.c
+END
+mrf24j40_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/mrf24j40/mrf24j40_arch.h
+END

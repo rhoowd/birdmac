@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/loader
+END
+loader_arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/loader/loader_arch.c
+END
+loader_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/loader/loader_arch.h
+END

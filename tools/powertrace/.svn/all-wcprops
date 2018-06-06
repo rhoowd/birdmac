@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/powertrace
+END
+parse-sniff-data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/powertrace/parse-sniff-data
+END
+Makefile.powertrace
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/powertrace/Makefile.powertrace
+END
+parse-node-power
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/powertrace/parse-node-power
+END
+plot-power
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/powertrace/plot-power
+END
+parse-power-data
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/powertrace/parse-power-data
+END

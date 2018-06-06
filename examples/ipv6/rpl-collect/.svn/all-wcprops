@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect
+END
+collect-tree-sparse-lossy.csc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/collect-tree-sparse-lossy.csc
+END
+udp-sink.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/udp-sink.c
+END
+collect-common.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/collect-common.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/Makefile
+END
+collect-tree-dense-noloss.csc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/collect-tree-dense-noloss.csc
+END
+collect-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/collect-common.h
+END
+udp-sender.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-collect/udp-sender.c
+END

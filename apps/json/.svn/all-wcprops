@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json
+END
+Makefile.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json/Makefile.json
+END
+jsonparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json/jsonparse.c
+END
+jsonparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json/jsonparse.h
+END
+jsontree.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json/jsontree.c
+END
+json.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json/json.h
+END
+jsontree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/json/jsontree.h
+END

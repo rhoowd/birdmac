@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev
+END
+smwdthrosc.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/smwdthrosc.h
+END
+ana-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/ana-regs.h
+END
+ssi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/ssi.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/gpio.h
+END
+gptimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/gptimer.h
+END
+rfcore-sfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/rfcore-sfr.h
+END
+rfcore-ffsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/rfcore-ffsm.h
+END
+rfcore-xreg.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/rfcore-xreg.h
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/spi.c
+END
+systick.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/systick.h
+END
+nvic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/nvic.c
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/watchdog.c
+END
+uart1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/uart1.h
+END
+nvic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/nvic.h
+END
+mpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/mpu.h
+END
+ioc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/ioc.c
+END
+uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/uart.c
+END
+scb.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/scb.h
+END
+cc2538-rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/cc2538-rf.c
+END
+soc-adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/soc-adc.h
+END
+ioc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/ioc.h
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/uart.h
+END
+sys-ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/sys-ctrl.c
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/random.c
+END
+cc2538-rf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/cc2538-rf.h
+END
+sys-ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/sys-ctrl.h
+END
+rfcore.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/rfcore.h
+END
+udma.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/udma.c
+END
+udma.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/udma.h
+END
+usb-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/usb-regs.h
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2538/dev/gpio.c
+END

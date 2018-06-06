@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/Makefile
+END
+13-exp5438-unicast-fragmentation-nullrdc-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/13-exp5438-unicast-fragmentation-nullrdc-large-sender.csc
+END
+15-exp5438-unicast-fragmentation-nullrdc-too-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/15-exp5438-unicast-fragmentation-nullrdc-too-large-sender.csc
+END
+06-exp5438-udp-fragmentation-contikimac-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/06-exp5438-udp-fragmentation-contikimac-large-sender.csc
+END
+08-exp5438-udp-fragmentation-contikimac-too-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/08-exp5438-udp-fragmentation-contikimac-too-large-sender.csc
+END
+fragmentation-should-receive-none.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/fragmentation-should-receive-none.js
+END
+10-exp5438-unicast-fragmentation-contikimac.csc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/10-exp5438-unicast-fragmentation-contikimac.csc
+END
+01-cooja-ipv6-udp.csc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/01-cooja-ipv6-udp.csc
+END
+fragmentation-should-receive-all.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/fragmentation-should-receive-all.js
+END
+12-exp5438-unicast-fragmentation-contikimac-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/12-exp5438-unicast-fragmentation-contikimac-large-sender.csc
+END
+05-exp5438-udp-fragmentation-nullrdc.csc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/05-exp5438-udp-fragmentation-nullrdc.csc
+END
+14-exp5438-unicast-fragmentation-contikimac-too-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/14-exp5438-unicast-fragmentation-contikimac-too-large-sender.csc
+END
+03-sky-ipv6-udp-fragmentation.csc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/03-sky-ipv6-udp-fragmentation.csc
+END
+16-sky-ipv6-rpl-collect.csc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/16-sky-ipv6-rpl-collect.csc
+END
+07-exp5438-udp-fragmentation-nullrdc-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/07-exp5438-udp-fragmentation-nullrdc-large-sender.csc
+END
+09-exp5438-udp-fragmentation-nullrdc-too-large-sender.csc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/09-exp5438-udp-fragmentation-nullrdc-too-large-sender.csc
+END
+11-exp5438-unicast-fragmentation-nullrdc.csc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/11-exp5438-unicast-fragmentation-nullrdc.csc
+END
+04-exp5438-udp-fragmentation-contikimac.csc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/04-exp5438-udp-fragmentation-contikimac.csc
+END
+02-sky-ipv6-udp.csc.flaky
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/02-sky-ipv6-udp.csc.flaky
+END

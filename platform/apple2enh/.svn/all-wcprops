@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/apple2enh
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/apple2enh/contiki-main.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/apple2enh/contiki-conf.h
+END
+Makefile.apple2enh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/apple2enh/Makefile.apple2enh
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/apple2enh/README.md
+END

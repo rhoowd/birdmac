@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/usb/cdc-acm
+END
+cdc-acm-string-descriptors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/usb/cdc-acm/cdc-acm-string-descriptors.xml
+END
+cdc-acm.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/usb/cdc-acm/cdc-acm.h
+END
+cdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/usb/cdc-acm/cdc.h
+END
+cdc-acm-descriptors.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/usb/cdc-acm/cdc-acm-descriptors.c
+END
+cdc-acm.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/usb/cdc-acm/cdc-acm.c
+END

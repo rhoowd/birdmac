@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb
+END
+rf230bb.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/rf230bb.h
+END
+at86rf230_registermap.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/at86rf230_registermap.h
+END
+halbb.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/halbb.c
+END
+hal.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/hal.h
+END
+atmega128rfa1_registermap.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/atmega128rfa1_registermap.h
+END
+Makefile.rf230bb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/Makefile.rf230bb
+END
+rf230bb.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/radio/rf230bb/rf230bb.c
+END

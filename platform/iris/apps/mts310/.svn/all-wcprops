@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/apps/mts310
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/apps/mts310/Makefile
+END
+accel-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/apps/mts310/accel-test.c
+END
+light-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/apps/mts310/light-test.c
+END
+mic-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/apps/mts310/mic-test.c
+END
+magnet-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/apps/mts310/magnet-test.c
+END

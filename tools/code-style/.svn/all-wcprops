@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style
+END
+indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style/indent.pro
+END
+uncrustify-fix-style.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style/uncrustify-fix-style.sh
+END
+check-contiki-style
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style/check-contiki-style
+END
+uncrustify.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style/uncrustify.cfg
+END
+uncrustify-check-style.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style/uncrustify-check-style.sh
+END
+contiki-indent
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/code-style/contiki-indent
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev/adc.c
+END
+adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev/adc.h
+END
+ds2401.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev/ds2401.c
+END
+ds2401.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev/ds2401.h
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev/leds-arch.c
+END
+slip_uart0.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/iris/dev/slip_uart0.c
+END

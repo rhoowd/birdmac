@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/udp-ipv6-sleep
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/udp-ipv6-sleep/README.md
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/udp-ipv6-sleep/Makefile
+END
+udp-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/udp-ipv6-sleep/udp-server.c
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/udp-ipv6-sleep/Makefile.target
+END
+udp-client.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/udp-ipv6-sleep/udp-client.c
+END

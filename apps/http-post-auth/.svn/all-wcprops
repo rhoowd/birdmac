@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/http-post-auth
+END
+http-post-auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/http-post-auth/http-post-auth.h
+END
+Makefile.http-post-auth
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/http-post-auth/Makefile.http-post-auth
+END
+http-post-auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/http-post-auth/http-post-auth.c
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io
+END
+dbg-printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/dbg-printf.c
+END
+dbg-snprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/dbg-snprintf.c
+END
+dbg-sprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/dbg-sprintf.c
+END
+dbg-putchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/dbg-putchar.c
+END
+strformat.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/strformat.c
+END
+dbg-puts.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/dbg-puts.c
+END
+strformat.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/dbg-io/strformat.h
+END

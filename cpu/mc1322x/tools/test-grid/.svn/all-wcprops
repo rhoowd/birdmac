@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/test-grid
+END
+burn-macs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/test-grid/burn-macs.pl
+END
+reset-all.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/test-grid/reset-all.pl
+END
+open-terms.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/test-grid/open-terms.pl
+END
+erase-all.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/test-grid/erase-all.pl
+END
+load-all.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/test-grid/load-all.pl
+END

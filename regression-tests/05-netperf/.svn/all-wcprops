@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/05-netperf
+END
+01-sky-netperf.csc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/05-netperf/01-sky-netperf.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/05-netperf/Makefile
+END
+02-sky-netperf-lpp.csc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/05-netperf/02-sky-netperf-lpp.csc
+END
+03-sky-netperf-cxmac.csc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/05-netperf/03-sky-netperf-cxmac.csc
+END

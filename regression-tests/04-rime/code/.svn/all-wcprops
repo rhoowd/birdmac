@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/code
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/code/Makefile
+END
+mesh-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/code/mesh-node.c
+END
+trickle-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/04-rime/code/trickle-node.c
+END

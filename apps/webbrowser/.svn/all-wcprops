@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser
+END
+http-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/http-strings.c
+END
+http-user-agent-string
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/http-user-agent-string
+END
+html-strings
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/html-strings
+END
+http-strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/http-strings.h
+END
+webclient.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/webclient.c
+END
+Makefile.webbrowser
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/Makefile.webbrowser
+END
+webclient.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/webclient.h
+END
+htmlparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/htmlparser.c
+END
+www.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/www.c
+END
+http-strings
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/http-strings
+END
+htmlparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/htmlparser.h
+END
+www.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/www.h
+END
+www-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/www-dsc.c
+END
+http-user-agent-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/http-user-agent-string.c
+END
+html-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/html-strings.c
+END
+http-user-agent-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/http-user-agent-string.h
+END
+html-strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/html-strings.h
+END
+www-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webbrowser/www-dsc.h
+END

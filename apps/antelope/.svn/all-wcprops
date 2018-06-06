@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope
+END
+lvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/lvm.h
+END
+aql-parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/aql-parser.c
+END
+antelope.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/antelope.c
+END
+index.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/index.c
+END
+attribute.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/attribute.h
+END
+storage.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/storage.h
+END
+antelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/antelope.h
+END
+index.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/index.h
+END
+relation.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/relation.c
+END
+storage-cfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/storage-cfs.c
+END
+result.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/result.c
+END
+aql.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/aql.h
+END
+relation.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/relation.h
+END
+index-inline.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/index-inline.c
+END
+db-options.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/db-options.h
+END
+aql-adt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/aql-adt.c
+END
+result.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/result.h
+END
+index-memhash.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/index-memhash.c
+END
+index-maxheap.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/index-maxheap.c
+END
+aql-lexer.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/aql-lexer.c
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/debug.h
+END
+db-types.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/db-types.h
+END
+lvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/lvm.c
+END
+aql-exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/aql-exec.c
+END
+Makefile.antelope
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/antelope/Makefile.antelope
+END

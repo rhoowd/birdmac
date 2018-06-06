@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103
+END
+sdcard-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/sdcard-arch.c
+END
+stm32f10x_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/stm32f10x_type.h
+END
+stm32f10x_conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/stm32f10x_conf.h
+END
+rtimer-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/rtimer-arch.h
+END
+STM32F103CB.ld
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/STM32F103CB.ld
+END
+cortexm3_macro.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/cortexm3_macro.h
+END
+stm32f10x_nvic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/stm32f10x_nvic.h
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/clock.c
+END
+stm32f10x_dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/stm32f10x_dma.h
+END
+Makefile.stm32f103
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/Makefile.stm32f103
+END
+usb-stm32f103.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/usb-stm32f103.h
+END
+debug-uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/debug-uart.c
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/gpio.h
+END
+nvic.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/nvic.h
+END
+debug-uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/debug-uart.h
+END
+usb-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/usb-arch.c
+END
+startup-STM32F10x.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/startup-STM32F10x.c
+END
+stm32f10x_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/stm32f103/stm32f10x_map.h
+END

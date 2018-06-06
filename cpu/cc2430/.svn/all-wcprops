@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/stack.c
+END
+Makefile.cc2430
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/Makefile.cc2430
+END
+bank-alloc.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/bank-alloc.py
+END
+segment.rules
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/segment.rules
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/stack.h
+END
+cc2430_sfr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/cc2430_sfr.h
+END
+rtimer-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/rtimer-arch.c
+END
+8051def.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/8051def.h
+END
+rtimer-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/rtimer-arch.h
+END
+mtarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/mtarch.h
+END

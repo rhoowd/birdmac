@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/border-router
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/border-router/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/border-router/project-conf.h
+END
+slip-bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/border-router/slip-bridge.c
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/border-router/README.md
+END
+border-router.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/border-router/border-router.c
+END

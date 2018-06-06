@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro
+END
+button.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/button.h
+END
+mems-regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/mems-regs.h
+END
+micro-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/micro-common.h
+END
+mems.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/mems.h
+END
+system-timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/system-timer.h
+END
+led.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/led.h
+END
+temperature-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/temperature-sensor.h
+END
+adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/stm32w108/hal/micro/adc.h
+END

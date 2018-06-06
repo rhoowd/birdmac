@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/project-conf.h
+END
+rest-server-example.csc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/rest-server-example.csc
+END
+coap-client-server-example.csc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/coap-client-server-example.csc
+END
+coap-client-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/coap-client-example.c
+END
+rest-server-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/rest-server-example.c
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/rest-example/README.md
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ping6
+END
+ping6.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ping6/ping6.c
+END
+ping6.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ping6/ping6.h
+END
+Makefile.ping6
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ping6/Makefile.ping6
+END

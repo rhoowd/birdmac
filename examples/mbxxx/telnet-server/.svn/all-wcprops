@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/telnet-server
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/telnet-server/Makefile.target
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/telnet-server/Makefile
+END
+telnet-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/mbxxx/telnet-server/telnet-server.c
+END

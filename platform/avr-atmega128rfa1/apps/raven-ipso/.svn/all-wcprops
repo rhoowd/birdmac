@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-atmega128rfa1/apps/raven-ipso
+END
+raven-ipso.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-atmega128rfa1/apps/raven-ipso/raven-ipso.c
+END
+Makefile.raven-ipso
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-atmega128rfa1/apps/raven-ipso/Makefile.raven-ipso
+END

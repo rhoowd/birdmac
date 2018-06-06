@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools
+END
+mc1322x-load.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/mc1322x-load.c
+END
+run-kermit
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/run-kermit
+END
+bin2macbin.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/bin2macbin.pl
+END
+burn-mac.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/burn-mac.pl
+END
+rftestrx2pcap.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/rftestrx2pcap.py
+END
+map2dot.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/map2dot.pl
+END
+rftestrx2pcap.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/rftestrx2pcap.pl
+END
+mc1322x-load.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/mc1322x-load.pl
+END

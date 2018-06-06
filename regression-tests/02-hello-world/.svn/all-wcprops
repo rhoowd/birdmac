@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world
+END
+04-hello-world-esb.csc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/04-hello-world-esb.csc
+END
+06-wismote-hello-world.csc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/06-wismote-hello-world.csc
+END
+01-hello-world-cooja.csc.flaky
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/01-hello-world-cooja.csc.flaky
+END
+07-z1-hello-world.csc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/07-z1-hello-world.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/Makefile
+END
+05-exp5438-hello-world.csc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/05-exp5438-hello-world.csc
+END
+03-hello-world-micaz.csc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/03-hello-world-micaz.csc
+END
+02-hello-world-sky.csc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/02-hello-world-sky.csc
+END
+hello-world.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/02-hello-world/hello-world.js
+END

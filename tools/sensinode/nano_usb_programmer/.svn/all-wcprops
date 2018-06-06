@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer
+END
+ihex.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/ihex.c
+END
+cdi.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/cdi.c
+END
+ihex.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/ihex.h
+END
+cdi.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/cdi.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/main.c
+END
+Rules.make
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/Rules.make
+END
+prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/prog.c
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/README.md
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/Makefile
+END
+prog.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/sensinode/nano_usb_programmer/prog.h
+END

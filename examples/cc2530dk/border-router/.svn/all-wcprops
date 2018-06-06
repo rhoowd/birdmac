@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router/README.md
+END
+border-router.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router/border-router.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router/project-conf.h
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router/Makefile.target
+END
+slip-bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/cc2530dk/border-router/slip-bridge.c
+END

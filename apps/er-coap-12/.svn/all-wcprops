@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12
+END
+er-coap-12-observing.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-observing.h
+END
+er-coap-12-separate.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-separate.c
+END
+er-coap-12-engine.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-engine.c
+END
+er-coap-12.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12.h
+END
+er-coap-12-transactions.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-transactions.c
+END
+er-coap-12-separate.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-separate.h
+END
+er-coap-12-engine.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-engine.h
+END
+Makefile.er-coap-12
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/Makefile.er-coap-12
+END
+er-coap-12-transactions.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-transactions.h
+END
+er-coap-12-observing.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12-observing.c
+END
+er-coap-12.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/er-coap-12/er-coap-12.c
+END

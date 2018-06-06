@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/energy-scan
+END
+energy-scan.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/energy-scan/energy-scan.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/energy-scan/Makefile
+END
+netstack.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/energy-scan/netstack.c
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/energy-scan/project-conf.h
+END
+stub-rdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/energy-scan/stub-rdc.c
+END

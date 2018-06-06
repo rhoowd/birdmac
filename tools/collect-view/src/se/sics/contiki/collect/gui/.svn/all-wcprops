@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui
+END
+TimeChartPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/TimeChartPanel.java
+END
+NodeInfoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/NodeInfoPanel.java
+END
+SerialConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/SerialConsole.java
+END
+BarChartPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/BarChartPanel.java
+END
+NodeControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/NodeControl.java
+END
+AggregatedTimeChartPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/AggregatedTimeChartPanel.java
+END
+MapPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/gui/MapPanel.java
+END

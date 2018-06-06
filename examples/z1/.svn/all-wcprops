@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1
+END
+test-battery.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-battery.c
+END
+test-relay-phidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-relay-phidget.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/Makefile
+END
+test-sht11.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-sht11.c
+END
+test-light-ziglet.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-light-ziglet.c
+END
+test-tmp102.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-tmp102.c
+END
+test-adxl345.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-adxl345.c
+END
+test-phidgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-phidgets.c
+END
+test-tlc59116.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-tlc59116.c
+END
+test-potent.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/test-potent.c
+END

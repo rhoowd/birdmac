@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev
+END
+uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/uart.h
+END
+random.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/random.c
+END
+cc2430_rf_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/cc2430_rf_intr.c
+END
+cc2430_rf.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/cc2430_rf.c
+END
+hwconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/hwconf.h
+END
+bus.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/bus.c
+END
+cc2430_rf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/cc2430_rf.h
+END
+uart0.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/uart0.c
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/clock.c
+END
+uart1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/uart1.c
+END
+watchdog-cc2430.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/watchdog-cc2430.c
+END
+lpm.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/lpm.h
+END
+dma_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/dma_intr.c
+END
+bus.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/bus.h
+END
+uart0.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/uart0.h
+END
+dma.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/dma.c
+END
+uart1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/uart1.h
+END
+watchdog-cc2430.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/watchdog-cc2430.h
+END
+dma.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/dma.h
+END
+uart_intr.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/cc2430/dev/uart_intr.c
+END

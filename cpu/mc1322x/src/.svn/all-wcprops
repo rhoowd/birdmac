@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/src
+END
+default_lowlevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/src/default_lowlevel.c
+END
+isr.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/src/isr.c
+END
+start.S
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/src/start.S
+END
+Makefile.src
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/src/Makefile.src
+END
+default_lowlevel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/src/default_lowlevel.h
+END

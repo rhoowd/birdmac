@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr
+END
+minileds.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/minileds.c
+END
+cc2420_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/cc2420_spi.c
+END
+avrdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/avrdef.h
+END
+rtimer-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/rtimer-arch.c
+END
+mtarch.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/mtarch.c
+END
+rtimer-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/rtimer-arch.h
+END
+slip_uart1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/slip_uart1.c
+END
+mtarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/mtarch.h
+END
+Makefile.avr
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/Makefile.avr
+END
+avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/avr.c
+END
+bootloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/bootloader.c
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/spi.c
+END
+bootloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/bootloader.h
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/watchdog.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/leds-arch.c
+END

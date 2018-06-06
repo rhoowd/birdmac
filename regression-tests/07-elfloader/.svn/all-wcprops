@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/07-elfloader
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/07-elfloader/Makefile
+END
+01-sky-shell-exec-serial.csc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/07-elfloader/01-sky-shell-exec-serial.csc
+END

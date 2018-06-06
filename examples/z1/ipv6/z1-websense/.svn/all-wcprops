@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/README.md
+END
+wget.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/wget.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/Makefile
+END
+example-sky-websense.csc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/example-sky-websense.csc
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/project-conf.h
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/Makefile.target
+END
+z1-websense.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/z1-websense.c
+END
+websense-remote.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/websense-remote.c
+END
+wget.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/ipv6/z1-websense/wget.c
+END

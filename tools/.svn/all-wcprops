@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools
+END
+base64-encode
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/base64-encode
+END
+tunslip.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/tunslip.c
+END
+freebsd-6-setup-slip
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/freebsd-6-setup-slip
+END
+tapslip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/tapslip6.c
+END
+mknmlist-ansi
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/mknmlist-ansi
+END
+avr-makefsdata
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/avr-makefsdata
+END
+msp430-make-symbols
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/msp430-make-symbols
+END
+makestrings
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/makestrings
+END
+avr-make-symbols
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/avr-make-symbols
+END
+codeprop.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/codeprop.c
+END
+mknmlist
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/mknmlist
+END
+makefsdata
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/makefsdata
+END
+setup-nat-ubuntu
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/setup-nat-ubuntu
+END
+timestamp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/timestamp
+END
+empty-symbols.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/empty-symbols.c
+END
+avr-makecoffeedata
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/avr-makecoffeedata
+END
+tunslip6.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/tunslip6.c
+END
+serial-log.pl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/serial-log.pl
+END
+empty-symbols.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/empty-symbols.h
+END
+make-symbols-nm
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/make-symbols-nm
+END
+scat.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/scat.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/Makefile
+END

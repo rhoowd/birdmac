@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx
+END
+board.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/board.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/contiki-conf.h
+END
+contiki-init-net.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/contiki-init-net.h
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/board.h
+END
+platform-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/platform-conf.h
+END
+Makefile.mbxxx
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/Makefile.mbxxx
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/contiki-main.c
+END
+contiki-init-net.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/contiki-init-net.c
+END

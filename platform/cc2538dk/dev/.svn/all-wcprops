@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/dev
+END
+board.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/dev/board.h
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/dev/button-sensor.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/dev/leds-arch.c
+END
+button-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/dev/button-sensor.h
+END
+smartrf-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2538dk/dev/smartrf-sensors.c
+END

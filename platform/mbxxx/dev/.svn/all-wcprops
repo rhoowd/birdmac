@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev
+END
+mems.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/mems.c
+END
+acc-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/acc-sensor.h
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/button-sensor.c
+END
+contact-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/contact-sensor.c
+END
+temperature-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/temperature-sensor.c
+END
+mems.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/mems.h
+END
+mems_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/mems_regs.h
+END
+contact-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/contact-sensor.h
+END
+temperature-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/temperature-sensor.h
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/irq.c
+END
+acc-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/mbxxx/dev/acc-sensor.c
+END

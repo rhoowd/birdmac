@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker
+END
+Area.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker/Area.java
+END
+Objfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker/Objfile.java
+END
+Linker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker/Linker.java
+END
+RelocationInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker/RelocationInformation.java
+END
+Symbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker/Symbol.java
+END
+Line.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/z80/java/src/org/markn/contiki/z80/linker/Line.java
+END

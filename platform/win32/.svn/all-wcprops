@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/clock.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/Makefile
+END
+conio.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/conio.h
+END
+Makefile.win32
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/Makefile.win32
+END
+README-1.X.md
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/README-1.X.md
+END
+README-VC.md
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/README-VC.md
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/contiki-main.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/win32/contiki-conf.h
+END

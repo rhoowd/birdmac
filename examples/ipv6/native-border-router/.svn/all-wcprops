@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router
+END
+httpd-simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/httpd-simple.c
+END
+slip-config.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/slip-config.c
+END
+border-router.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/border-router.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/project-conf.h
+END
+border-router-cmds.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/border-router-cmds.c
+END
+httpd-simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/httpd-simple.h
+END
+border-router.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/border-router.h
+END
+tun-bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/tun-bridge.c
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/Makefile.target
+END
+border-router-rdc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/border-router-rdc.c
+END
+slip-dev.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/slip-dev.c
+END
+border-router-cmds.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/native-border-router/border-router-cmds.h
+END

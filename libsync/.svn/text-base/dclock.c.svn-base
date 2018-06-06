@@ -1,0 +1,69 @@
+#include "dclock.h"
+
+#define DEBUG_DCLOCK 0
+#if DEBUG_DCLOCK
+#define PRINTF(...) printf(__VA_ARGS__)
+#else
+#define PRINTF(...)
+#endif
+
+
+void dclock_init(struct Dclock **dc)
+{
+	*dc = &dclock;
+}
+
+clock_time_t dclock_get_time(struct Dclock *dc)
+{
+
+	if (dc->offset < 0)
+		return clock_time() - (clock_time_t)(-1*dc->offset);
+	else
+		return clock_time() + dc->offset;
+}
+
+void dclock_get_offset(struct Dclock *dc,long int *i)
+{
+	*i = dc->offset;
+}
+void dclock_print(struct Dclock *dc)
+{
+	PRINTF("offset : %ld\n",dc->offset);
+}
+
+void dclock_print_time(struct Dclock *dc)
+{
+#if DEBUG_DCLOCK
+	int ms,sec,min,hour;
+	clock_time_t day;
+	clock_time_t temp_time = dclock_get_time(dc);
+	printf("%ld %ld \n",temp_time,CLOCK_SECOND);
+	ms = temp_time % CLOCK_SECOND;
+	printf("ms : %d ",ms);
+	temp_time = temp_time/CLOCK_SECOND;
+	sec = temp_time%60;
+	printf("sec : %d \n",sec);
+	temp_time = temp_time/60;
+	min = temp_time%60;
+	temp_time = temp_time/60;
+	hour = temp_time % 24;
+	day = temp_time/24;
+
+	printf("Day|Hour|Min|Sec|Msec\n");
+	printf("%3ld|%4d|%3d|%3d|%4d\n",day,hour,min,sec,ms);
+#endif
+}
+
+void print_time_stamp(struct Time_stamp time_stamp)
+{
+	PRINTF("t1 : %ld\nt2 : %ld\nt3 : %ld\nt4 : %ld\n",
+			time_stamp.t1, time_stamp.t2, time_stamp.t3, time_stamp.t4);
+}
+
+void dclock_synchronize(struct Dclock *dc,struct Time_stamp ts)
+{
+	dc->offset += (long int)(ts.t2 - ts.t1 - ts.t4 + ts.t3)/2;
+	PRINTF("[Dclock] offset : %ld current time: %ld\n",dc->offset,dclock_get_time(dc));
+}
+
+

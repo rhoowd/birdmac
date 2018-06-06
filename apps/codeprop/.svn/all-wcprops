@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop
+END
+codeprop-tmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop/codeprop-tmp.c
+END
+codeprop.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop/codeprop.c
+END
+tcp_loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop/tcp_loader.c
+END
+codeprop-tmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop/codeprop-tmp.h
+END
+tcp_loader2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop/tcp_loader2.c
+END
+codeprop.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/codeprop/codeprop.h
+END

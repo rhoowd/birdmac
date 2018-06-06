@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/compiler.h
+END
+usb_descriptors.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_descriptors.h
+END
+usb_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_task.h
+END
+usb_standard_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_standard_request.c
+END
+conf_usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/conf_usb.h
+END
+usb_drv.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_drv.c
+END
+usb_specific_request.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_specific_request.c
+END
+usb_standard_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_standard_request.h
+END
+pll_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/pll_drv.h
+END
+usb_drv.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_drv.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/config.h
+END
+usb_descriptors.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_descriptors.c
+END
+usb_specific_request.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_specific_request.h
+END
+usb_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/usb_task.c
+END

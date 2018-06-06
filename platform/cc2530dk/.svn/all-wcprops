@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/contiki-main.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/debug.c
+END
+putchar.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/putchar.c
+END
+viztool.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/viztool.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/contiki-conf.h
+END
+models.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/models.h
+END
+Makefile.cc2530dk
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/Makefile.cc2530dk
+END
+segment.rules
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/segment.rules
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/debug.h
+END
+uip-debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/cc2530dk/uip-debug.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1sp
+END
+platform-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1sp/platform-conf.h
+END
+contiki-z1sp-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1sp/contiki-z1sp-platform.c
+END
+Makefile.z1sp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1sp/Makefile.z1sp
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1sp/contiki-conf.h
+END

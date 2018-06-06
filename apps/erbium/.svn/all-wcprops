@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/erbium
+END
+erbium.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/erbium/erbium.c
+END
+erbium.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/erbium/erbium.h
+END
+Makefile.erbium
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/erbium/Makefile.erbium
+END

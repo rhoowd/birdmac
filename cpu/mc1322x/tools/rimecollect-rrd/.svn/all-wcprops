@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/rimecollect-rrd
+END
+default.rrdtmpl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/rimecollect-rrd/default.rrdtmpl
+END
+collect2rrd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/rimecollect-rrd/collect2rrd.pl
+END
+meshstat.cgi
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/mc1322x/tools/rimecollect-rrd/meshstat.cgi
+END

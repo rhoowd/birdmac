@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1
+END
+node-id.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/node-id.c
+END
+cfs-coffee-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/cfs-coffee-arch.h
+END
+checkpoint-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/checkpoint-arch.c
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/Makefile.common
+END
+Makefile.z1
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/Makefile.z1
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/contiki-conf.h
+END
+contiki-z1-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/contiki-z1-main.c
+END
+contiki-z1-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/contiki-z1-platform.c
+END
+platform-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/platform-conf.h
+END

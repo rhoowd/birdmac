@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/jcreate
+END
+contiki-jcreate-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/jcreate/contiki-jcreate-platform.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/jcreate/leds-arch.c
+END
+platform-jcreate-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/jcreate/platform-jcreate-conf.h
+END
+Makefile.jcreate
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/jcreate/Makefile.jcreate
+END

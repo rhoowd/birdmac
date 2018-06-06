@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/INF
+END
+CompositeAtmelRNDIS.inf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/INF/CompositeAtmelRNDIS.inf
+END
+dakRAVENUSB_CDC_64bit.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/INF/dakRAVENUSB_CDC_64bit.inf
+END
+dak RAVENUSB_RNDIS_64bit.inf
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/INF/dak%20RAVENUSB_RNDIS_64bit.inf
+END
+CompositeAtmelVCP.inf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/INF/CompositeAtmelVCP.inf
+END
+AtmelRNDIS.inf
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/avr/dev/usb/INF/AtmelRNDIS.inf
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp/Makefile.target
+END
+rpl-udp-powertrace.csc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp/rpl-udp-powertrace.csc
+END
+udp-client.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp/udp-client.c
+END
+rpl-udp.csc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp/rpl-udp.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp/Makefile
+END
+udp-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-udp/udp-server.c
+END

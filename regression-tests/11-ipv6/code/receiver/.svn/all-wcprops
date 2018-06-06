@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/receiver
+END
+udp-receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/receiver/udp-receiver.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/receiver/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/receiver/project-conf.h
+END

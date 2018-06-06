@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/target
+END
+sam7s.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/at91sam7s/openocd/target/sam7s.cfg
+END

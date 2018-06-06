@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/contiki-conf.h
+END
+platform-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/platform-conf.h
+END
+node-id.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/node-id.c
+END
+cfs-coffee-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/cfs-coffee-arch.h
+END
+Makefile.sky
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/Makefile.sky
+END
+checkpoint-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/checkpoint-arch.c
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/Makefile.common
+END
+contiki-sky-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/contiki-sky-main.c
+END
+contiki-sky-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sky/contiki-sky-platform.c
+END

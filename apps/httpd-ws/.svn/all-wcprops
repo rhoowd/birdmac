@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/httpd-ws
+END
+Makefile.httpd-ws
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/httpd-ws/Makefile.httpd-ws
+END
+httpd-ws.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/httpd-ws/httpd-ws.c
+END
+httpd-ws.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/httpd-ws/httpd-ws.h
+END

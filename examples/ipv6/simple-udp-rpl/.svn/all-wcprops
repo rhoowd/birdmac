@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl
+END
+unicast-sender.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl/unicast-sender.c
+END
+unicast-example.csc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl/unicast-example.csc
+END
+unicast-receiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl/unicast-receiver.c
+END
+broadcast-example.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl/broadcast-example.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl/Makefile
+END
+broadcast-example.csc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/simple-udp-rpl/broadcast-example.csc
+END

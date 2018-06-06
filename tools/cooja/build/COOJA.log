@@ -1,0 +1,197 @@
+[00:46:06 - AWT-EventQueue-0] [GUI.java:2846] [INFO] - External tools default settings: /external_tools_linux.config
+[00:46:06 - AWT-EventQueue-0] [GUI.java:2876] [INFO] - External tools user settings: /home/user/.cooja.user.properties
+[00:46:23 - Thread-0] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[00:46:23 - Thread-0] [CompileContiki.java:140] [INFO] - > make app.cooja TARGET=cooja 
+[00:46:30 - Thread-0] [ContikiMoteType.java:384] [INFO] - Creating core communicator between Java class 'Lib1' and Contiki library 'mtype621.cooja'
+[00:46:30 - Thread-0] [ContikiMoteType.java:452] [INFO] - mtype621.cooja: data section at 0x16020 (268 == 0x10c bytes)
+[00:46:30 - Thread-0] [ContikiMoteType.java:459] [INFO] - mtype621.cooja: BSS section at 0x16140 (21316 == 0x5344 bytes)
+[00:46:30 - Thread-0] [ContikiMoteType.java:470] [INFO] - mtype621.cooja: no common section found
+[00:46:30 - Thread-0] [ContikiMoteType.java:477] [WARN] - mtype621.cooja: no readonly section found
+[00:46:30 - Thread-0] [ContikiMoteType.java:513] [INFO] - mtype621.cooja: offsetting Cooja mote address space: -1308848128
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:30 - Thread-0] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:46:31 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 100000.0 microseconds/pixel  (MAX)
+[00:46:32 - Thread-0] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:46:32 - Thread-0] [LogScriptEngine.java:265] [INFO] - Script timeout in 1296000000 ms
+[00:46:32 - Thread-0] [ScriptRunner.java:378] [INFO] - Test script activated
+[00:46:33 - Thread-5] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1452267993811
+[00:46:34 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 53.0 sec
+[00:46:35 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 30.7 sec
+[00:46:36 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 23.7 sec
+[00:46:36 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 19.4 sec
+[00:46:37 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 16.4 sec
+[00:46:38 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 14.2 sec
+[00:46:38 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 12.7 sec
+[00:46:39 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 11.1 sec
+[00:46:40 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 9.8 sec
+[00:46:40 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 8.6 sec
+[00:46:41 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 55.00%, done in 7.6 sec
+[00:46:41 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 60.00%, done in 6.5 sec
+[00:46:42 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 65.00%, done in 5.6 sec
+[00:46:43 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 70.00%, done in 4.7 sec
+[00:46:43 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 75.00%, done in 3.9 sec
+[00:46:44 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 80.00%, done in 3.0 sec
+[00:46:44 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 85.00%, done in 2.3 sec
+[00:46:45 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 90.00%, done in 1.5 sec
+[00:46:46 - Thread-5] [LogScriptEngine.java:389] [INFO] - Test script at 95.00%, done in 0.7 sec
+[00:46:46 - Thread-5] [LogScriptEngine.java:375] [INFO] - Timeout event @ 1296000000000
+[00:46:46 - Thread-4] [LogScriptEngine.java:309] [INFO] - Test script finished
+[00:46:46 - Thread-5] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1452268006698	Duration: 12887 ms	Simulated time 1296000000 ms	Ratio 100566.46232637542
+[00:47:10 - AWT-EventQueue-0] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:47:10 - Thread-6] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[00:47:10 - Thread-6] [CompileContiki.java:140] [INFO] - > make app.cooja TARGET=cooja 
+[00:47:11 - Thread-6] [ContikiMoteType.java:384] [INFO] - Creating core communicator between Java class 'Lib2' and Contiki library 'mtype788.cooja'
+[00:47:12 - Thread-6] [ContikiMoteType.java:452] [INFO] - mtype788.cooja: data section at 0x16020 (268 == 0x10c bytes)
+[00:47:12 - Thread-6] [ContikiMoteType.java:459] [INFO] - mtype788.cooja: BSS section at 0x16140 (21316 == 0x5344 bytes)
+[00:47:12 - Thread-6] [ContikiMoteType.java:470] [INFO] - mtype788.cooja: no common section found
+[00:47:12 - Thread-6] [ContikiMoteType.java:477] [WARN] - mtype788.cooja: no readonly section found
+[00:47:12 - Thread-6] [ContikiMoteType.java:513] [INFO] - mtype788.cooja: offsetting Cooja mote address space: -1307107328
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:47:12 - Thread-6] [TimeLine.java:567] [INFO] - Zoom level: 100000.0 microseconds/pixel  (MAX)
+[00:47:12 - Thread-6] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:47:12 - Thread-6] [LogScriptEngine.java:265] [INFO] - Script timeout in 1296000000 ms
+[00:47:12 - Thread-6] [ScriptRunner.java:378] [INFO] - Test script activated
+[00:47:13 - Thread-10] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1452268033473
+[00:47:14 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 28.4 sec
+[00:47:14 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 18.2 sec
+[00:47:15 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 14.7 sec
+[00:47:15 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 12.3 sec
+[00:47:16 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 11.1 sec
+[00:47:16 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 9.8 sec
+[00:47:17 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 8.9 sec
+[00:47:18 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 7.9 sec
+[00:47:18 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 7.2 sec
+[00:47:19 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 6.3 sec
+[00:47:19 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 55.00%, done in 5.7 sec
+[00:47:20 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 60.00%, done in 4.9 sec
+[00:47:20 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 65.00%, done in 4.3 sec
+[00:47:21 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 70.00%, done in 3.6 sec
+[00:47:21 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 75.00%, done in 3.0 sec
+[00:47:22 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 80.00%, done in 2.4 sec
+[00:47:23 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 85.00%, done in 1.9 sec
+[00:47:23 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 90.00%, done in 1.2 sec
+[00:47:24 - Thread-10] [LogScriptEngine.java:389] [INFO] - Test script at 95.00%, done in 0.6 sec
+[00:47:24 - Thread-10] [LogScriptEngine.java:375] [INFO] - Timeout event @ 1296000000000
+[00:47:24 - Thread-9] [LogScriptEngine.java:309] [INFO] - Test script finished
+[00:47:24 - Thread-10] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1452268044911	Duration: 11438 ms	Simulated time 1296000000 ms	Ratio 113306.52211925162
+[00:48:24 - AWT-EventQueue-0] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:48:24 - Thread-11] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[00:48:24 - Thread-11] [CompileContiki.java:140] [INFO] - > make app.cooja TARGET=cooja 
+[00:48:25 - Thread-11] [ContikiMoteType.java:384] [INFO] - Creating core communicator between Java class 'Lib3' and Contiki library 'mtype209.cooja'
+[00:48:25 - Thread-11] [ContikiMoteType.java:452] [INFO] - mtype209.cooja: data section at 0x16020 (268 == 0x10c bytes)
+[00:48:25 - Thread-11] [ContikiMoteType.java:459] [INFO] - mtype209.cooja: BSS section at 0x16140 (21316 == 0x5344 bytes)
+[00:48:25 - Thread-11] [ContikiMoteType.java:470] [INFO] - mtype209.cooja: no common section found
+[00:48:25 - Thread-11] [ContikiMoteType.java:477] [WARN] - mtype209.cooja: no readonly section found
+[00:48:25 - Thread-11] [ContikiMoteType.java:513] [INFO] - mtype209.cooja: offsetting Cooja mote address space: -1309446144
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:25 - Thread-11] [TimeLine.java:567] [INFO] - Zoom level: 100000.0 microseconds/pixel  (MAX)
+[00:48:26 - Thread-11] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:48:26 - Thread-11] [LogScriptEngine.java:265] [INFO] - Script timeout in 1296000000 ms
+[00:48:26 - Thread-11] [ScriptRunner.java:378] [INFO] - Test script activated
+[00:48:26 - Thread-15] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1452268106677
+[00:48:27 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 32.0 sec
+[00:48:28 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 19.8 sec
+[00:48:28 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 15.9 sec
+[00:48:29 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 13.2 sec
+[00:48:30 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 11.6 sec
+[00:48:30 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 10.2 sec
+[00:48:31 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 9.2 sec
+[00:48:31 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 8.2 sec
+[00:48:32 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 7.4 sec
+[00:48:32 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 6.6 sec
+[00:48:33 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 55.00%, done in 5.9 sec
+[00:48:33 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 60.00%, done in 5.1 sec
+[00:48:34 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 65.00%, done in 4.5 sec
+[00:48:34 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 70.00%, done in 3.8 sec
+[00:48:35 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 75.00%, done in 3.1 sec
+[00:48:36 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 80.00%, done in 2.5 sec
+[00:48:36 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 85.00%, done in 1.9 sec
+[00:48:37 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 90.00%, done in 1.2 sec
+[00:48:37 - Thread-15] [LogScriptEngine.java:389] [INFO] - Test script at 95.00%, done in 0.6 sec
+[00:48:38 - Thread-15] [LogScriptEngine.java:375] [INFO] - Timeout event @ 1296000000000
+[00:48:38 - Thread-14] [LogScriptEngine.java:309] [INFO] - Test script finished
+[00:48:38 - Thread-15] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1452268118341	Duration: 11664 ms	Simulated time 1296000000 ms	Ratio 111111.11111111111
+[00:48:44 - AWT-EventQueue-0] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:48:44 - Thread-16] [Simulation.java:423] [INFO] - Simulation random seed: 123456
+[00:48:44 - Thread-16] [CompileContiki.java:140] [INFO] - > make app.cooja TARGET=cooja 
+[00:48:44 - Thread-16] [ContikiMoteType.java:384] [INFO] - Creating core communicator between Java class 'Lib4' and Contiki library 'mtype644.cooja'
+[00:48:45 - Thread-16] [ContikiMoteType.java:452] [INFO] - mtype644.cooja: data section at 0x16020 (268 == 0x10c bytes)
+[00:48:45 - Thread-16] [ContikiMoteType.java:459] [INFO] - mtype644.cooja: BSS section at 0x16140 (21316 == 0x5344 bytes)
+[00:48:45 - Thread-16] [ContikiMoteType.java:470] [INFO] - mtype644.cooja: no common section found
+[00:48:45 - Thread-16] [ContikiMoteType.java:477] [WARN] - mtype644.cooja: no readonly section found
+[00:48:45 - Thread-16] [ContikiMoteType.java:513] [INFO] - mtype644.cooja: offsetting Cooja mote address space: -1309560832
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [ContikiRadio.java:366] [INFO] - Radio bitrate reconfigured to (kbps): 250.0
+[00:48:45 - Thread-16] [TimeLine.java:567] [INFO] - Zoom level: 100000.0 microseconds/pixel  (MAX)
+[00:48:45 - Thread-16] [ScriptRunner.java:421] [INFO] - Test script deactivated
+[00:48:45 - Thread-16] [LogScriptEngine.java:265] [INFO] - Script timeout in 1296000000 ms
+[00:48:45 - Thread-16] [ScriptRunner.java:378] [INFO] - Test script activated
+[00:48:46 - Thread-20] [Simulation.java:252] [INFO] - Simulation main loop started, system time: 1452268126558
+[00:48:47 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 5.00%, done in 25.9 sec
+[00:48:47 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 10.00%, done in 16.8 sec
+[00:48:48 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 15.00%, done in 14.1 sec
+[00:48:48 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 20.00%, done in 12.0 sec
+[00:48:49 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 25.00%, done in 10.9 sec
+[00:48:50 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 30.00%, done in 9.6 sec
+[00:48:50 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 35.00%, done in 8.8 sec
+[00:48:51 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 40.00%, done in 7.8 sec
+[00:48:51 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 45.00%, done in 7.1 sec
+[00:48:52 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 50.00%, done in 6.3 sec
+[00:48:52 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 55.00%, done in 5.6 sec
+[00:48:53 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 60.00%, done in 4.9 sec
+[00:48:53 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 65.00%, done in 4.3 sec
+[00:48:54 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 70.00%, done in 3.6 sec
+[00:48:54 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 75.00%, done in 3.0 sec
+[00:48:55 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 80.00%, done in 2.4 sec
+[00:48:56 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 85.00%, done in 1.8 sec
+[00:48:56 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 90.00%, done in 1.2 sec
+[00:48:57 - Thread-20] [LogScriptEngine.java:389] [INFO] - Test script at 95.00%, done in 0.6 sec
+[00:48:57 - Thread-20] [LogScriptEngine.java:375] [INFO] - Timeout event @ 1296000000000
+[00:48:57 - Thread-19] [LogScriptEngine.java:309] [INFO] - Test script finished
+[00:48:57 - Thread-20] [Simulation.java:311] [INFO] - Simulation main loop stopped, system time: 1452268137696	Duration: 11138 ms	Simulated time 1296000000 ms	Ratio 116358.41264140779

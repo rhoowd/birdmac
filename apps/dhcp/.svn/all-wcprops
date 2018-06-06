@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/dhcp
+END
+dhcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/dhcp/dhcp.h
+END
+dhcp-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/dhcp/dhcp-dsc.c
+END
+Makefile.dhcp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/dhcp/Makefile.dhcp
+END
+dhcp-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/dhcp/dhcp-dsc.h
+END
+dhcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/dhcp/dhcp.c
+END

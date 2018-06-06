@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev
+END
+beep.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/beep.c
+END
+irq.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/irq.c
+END
+vib-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/vib-sensor.h
+END
+beep.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/beep.h
+END
+pir-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/pir-sensor.c
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/button-sensor.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/leds-arch.c
+END
+dummy-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/dummy-sensors.c
+END
+pir-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/pir-sensor.h
+END
+xmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/xmem.c
+END
+button-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/button-sensor.h
+END
+vib-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/vib-sensor.c
+END
+temperature-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/native/dev/temperature-sensor.h
+END

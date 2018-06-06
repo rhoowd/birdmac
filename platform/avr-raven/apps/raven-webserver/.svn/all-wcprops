@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver
+END
+httpd-fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-fs.h
+END
+httpd-cfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-cfs.h
+END
+webserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/webserver.c
+END
+http-strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/http-strings.c
+END
+Makefile.raven-webserver
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/Makefile.raven-webserver
+END
+webserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/webserver.h
+END
+webserver-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/webserver-dsc.c
+END
+http-strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/http-strings.h
+END
+webserver-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/webserver-dsc.h
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd.c
+END
+httpd-cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-cgi.c
+END
+webserver-nogui.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/webserver-nogui.c
+END
+http-strings
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/http-strings
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd.h
+END
+httpd-fsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-fsdata.h
+END
+httpd-cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-cgi.h
+END
+webserver-nogui.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/webserver-nogui.h
+END
+httpd-fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-fs.c
+END
+httpd-cfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-raven/apps/raven-webserver/httpd-cfs.c
+END

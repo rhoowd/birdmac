@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/minimal-net
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/minimal-net/contiki-main.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/minimal-net/leds-arch.c
+END
+Makefile.minimal-net
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/minimal-net/Makefile.minimal-net
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/minimal-net/contiki-conf.h
+END
+clock.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/minimal-net/clock.c
+END

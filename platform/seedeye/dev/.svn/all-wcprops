@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev
+END
+battery-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/battery-sensor.c
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/button-sensor.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/leds-arch.c
+END
+radio-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/seedeye/dev/radio-sensor.c
+END

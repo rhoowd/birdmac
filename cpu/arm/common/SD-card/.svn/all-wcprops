@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card
+END
+sdcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card/sdcard.h
+END
+cfs-sdcard.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card/cfs-sdcard.c
+END
+efsl_spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card/efsl_spi.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card/config.h
+END
+Makefile.sdcard
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card/Makefile.sdcard
+END
+efs-sdcard.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/arm/common/SD-card/efs-sdcard.h
+END

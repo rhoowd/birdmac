@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano
+END
+webserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/webserver.h
+END
+webserver-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/webserver-dsc.c
+END
+webserver-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/webserver-dsc.h
+END
+httpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd.c
+END
+httpd-fsdata.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-fsdata.c
+END
+httpd-cgi.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-cgi.c
+END
+webserver-nogui.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/webserver-nogui.c
+END
+urlconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/urlconv.c
+END
+httpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd.h
+END
+httpd-fsdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-fsdata.h
+END
+httpd-cgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-cgi.h
+END
+Makefile.webserver-nano
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/Makefile.webserver-nano
+END
+webserver-nogui.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/webserver-nogui.h
+END
+httpd-fs.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-fs.c
+END
+httpd-cfs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-cfs.c
+END
+urlconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/urlconv.h
+END
+httpd-fs.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-fs.h
+END
+httpd-cfs.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/httpd-cfs.h
+END
+webserver.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/webserver-nano/webserver.c
+END

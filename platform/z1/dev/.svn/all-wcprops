@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev
+END
+temperature-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/temperature-sensor.c
+END
+z1-phidgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/z1-phidgets.h
+END
+potentiometer-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/potentiometer-sensor.c
+END
+radio-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/radio-sensor.c
+END
+sky-sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/sky-sensors.h
+END
+xmem.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/xmem.c
+END
+light.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/light.c
+END
+light-ziglet.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/light-ziglet.h
+END
+cc2420-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/cc2420-arch.c
+END
+temperature-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/temperature-sensor.h
+END
+potentiometer-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/potentiometer-sensor.h
+END
+light.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/light.h
+END
+light-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/light-sensor.c
+END
+sht11-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/sht11-arch.h
+END
+battery-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/battery-sensor.c
+END
+button-sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/button-sensor.c
+END
+light-sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/light-sensor.h
+END
+tmp102.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/tmp102.c
+END
+adxl345.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/adxl345.c
+END
+tlc59116.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/tlc59116.c
+END
+tmp102.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/tmp102.h
+END
+i2cmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/i2cmaster.c
+END
+adxl345.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/adxl345.h
+END
+tlc59116.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/tlc59116.h
+END
+i2cmaster.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/i2cmaster.h
+END
+relay-phidget.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/relay-phidget.c
+END
+z1-phidgets.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/z1-phidgets.c
+END
+sky-sensors.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/sky-sensors.c
+END
+light-ziglet.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/light-ziglet.c
+END
+relay-phidget.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/z1/dev/relay-phidget.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router
+END
+httpd-simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router/httpd-simple.c
+END
+border-router.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router/border-router.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router/project-conf.h
+END
+httpd-simple.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router/httpd-simple.h
+END
+slip-bridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/ipv6/rpl-border-router/slip-bridge.c
+END

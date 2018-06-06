@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect
+END
+SerialDumpConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/SerialDumpConnection.java
+END
+SensorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/SensorInfo.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/Node.java
+END
+MoteFinder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/MoteFinder.java
+END
+Link.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/Link.java
+END
+Visualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/Visualizer.java
+END
+CommandConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/CommandConnection.java
+END
+SerialConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/SerialConnection.java
+END
+MoteProgrammerProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/MoteProgrammerProcess.java
+END
+MoteProgrammer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/MoteProgrammer.java
+END
+Configurable.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/Configurable.java
+END
+StdinConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/StdinConnection.java
+END
+SensorData.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/SensorData.java
+END
+SerialConnectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/SerialConnectionListener.java
+END
+TCPClientConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/TCPClientConnection.java
+END
+SensorDataAggregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/SensorDataAggregator.java
+END
+UDPConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/UDPConnection.java
+END
+CollectServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/collect-view/src/se/sics/contiki/collect/CollectServer.java
+END

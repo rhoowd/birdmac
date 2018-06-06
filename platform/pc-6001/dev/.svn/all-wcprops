@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev
+END
+getkey.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/getkey.S
+END
+rs232-asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/rs232-asm.S
+END
+isprint_arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/isprint_arch.h
+END
+clock.S
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/clock.S
+END
+getkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/getkey.h
+END
+rtimer-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/rtimer-arch.h
+END
+isprint_arch.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/pc-6001/dev/isprint_arch.S
+END

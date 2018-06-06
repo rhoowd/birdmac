@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stk500
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stk500/Makefile
+END
+Makefile.stk500
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stk500/Makefile.stk500
+END
+contiki-stk500-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stk500/contiki-stk500-main.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stk500/contiki-conf.h
+END

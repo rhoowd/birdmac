@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/10-ipv4
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/10-ipv4/Makefile
+END
+x02-ip-sky-telnet-ping.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/10-ipv4/x02-ip-sky-telnet-ping.csc
+END
+x03-ip-sky-webserver-wget.csc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/10-ipv4/x03-ip-sky-webserver-wget.csc
+END
+x01-ip-cooja-telnet-ping.csc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/10-ipv4/x01-ip-cooja-telnet-ping.csc
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util
+END
+ArrayQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/ArrayQueue.java
+END
+StringUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/StringUtils.java
+END
+JSyntaxAddBreakpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/JSyntaxAddBreakpoint.java
+END
+JSyntaxRemoveBreakpoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/JSyntaxRemoveBreakpoint.java
+END
+MoteSerialSocketConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/MoteSerialSocketConnection.java
+END
+ArrayUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/ArrayUtils.java
+END
+ExecuteJAR.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/util/ExecuteJAR.java
+END

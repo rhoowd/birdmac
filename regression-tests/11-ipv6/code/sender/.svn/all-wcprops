@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/sender
+END
+unicast-sender.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/sender/unicast-sender.c
+END
+udp-sender.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/sender/udp-sender.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/sender/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/11-ipv6/code/sender/project-conf.h
+END

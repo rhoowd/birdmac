@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sentilla-usb
+END
+platform-sentilla-usb-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sentilla-usb/platform-sentilla-usb-conf.h
+END
+Makefile.sentilla-usb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sentilla-usb/Makefile.sentilla-usb
+END
+contiki-sentilla-usb-platform.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sentilla-usb/contiki-sentilla-usb-platform.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/sentilla-usb/leds-arch.c
+END

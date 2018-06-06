@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl
+END
+08-rpl-dao-route-loss-2.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/08-rpl-dao-route-loss-2.csc
+END
+04-rpl-large-network.csc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/04-rpl-large-network.csc
+END
+08-rpl-dao-route-loss-3.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/08-rpl-dao-route-loss-3.csc
+END
+08-rpl-dao-route-loss-4.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/08-rpl-dao-route-loss-4.csc
+END
+06-rpl-temporary-root-loss.csc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/06-rpl-temporary-root-loss.csc
+END
+08-rpl-dao-route-loss-5.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/08-rpl-dao-route-loss-5.csc
+END
+03-rpl-28-hours.csc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/03-rpl-28-hours.csc
+END
+02-rpl-root-reboot.csc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/02-rpl-root-reboot.csc
+END
+05-rpl-up-and-down-routes.csc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/05-rpl-up-and-down-routes.csc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/Makefile
+END
+07-rpl-random-rearrangement.csc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/07-rpl-random-rearrangement.csc
+END
+01-rpl-up-route.csc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/01-rpl-up-route.csc
+END
+08-rpl-dao-route-loss-0.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/08-rpl-dao-route-loss-0.csc
+END
+08-rpl-dao-route-loss-1.csc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/08-rpl-dao-route-loss-1.csc
+END

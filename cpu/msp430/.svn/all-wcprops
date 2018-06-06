@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430
+END
+cc2420-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/cc2420-arch.c
+END
+cc2520-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/cc2520-arch.c
+END
+msp430def.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/msp430def.h
+END
+button.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/button.c
+END
+mtarch.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/mtarch.c
+END
+uip-ipchksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/uip-ipchksum.c
+END
+loader-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/loader-arch.c
+END
+Makefile.msp430
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/Makefile.msp430
+END
+cc2420-arch-sfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/cc2420-arch-sfd.c
+END
+rtimer-arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/rtimer-arch.h
+END
+slip_uart0.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/slip_uart0.c
+END
+cc2520-arch-sfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/cc2520-arch-sfd.c
+END
+mtarch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/mtarch.h
+END
+slip_uart1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/slip_uart1.c
+END
+cc2420-arch-sfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/cc2420-arch-sfd.h
+END
+lpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/lpm.c
+END
+cc2520-arch-sfd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/cc2520-arch-sfd.h
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/flash.c
+END
+rom.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/rom.c
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/watchdog.c
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/leds-arch.c
+END
+minileds.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/minileds.c
+END
+isr_compat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/cpu/msp430/isr_compat.h
+END

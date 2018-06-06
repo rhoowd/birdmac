@@ -1,0 +1,7 @@
+how to use shell-log
+
+1. make shell-log.z1
+2. sudo make login
+3. read bird_log.txt
+
+after parsing, do 'rm bird_log.txt' for next recording.

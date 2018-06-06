@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/core
+END
+contiki.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/core/contiki.h
+END
+contiki-version.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/core/contiki-version.h
+END
+contiki-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/core/contiki-lib.h
+END
+contiki-net.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/core/contiki-net.h
+END
+contiki-default-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/core/contiki-default-conf.h
+END

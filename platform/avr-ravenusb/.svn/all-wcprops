@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/contiki-conf.h
+END
+cdc_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/cdc_task.c
+END
+contiki-raven-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/contiki-raven-main.c
+END
+loadable_prg.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/loadable_prg.c
+END
+rng.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/rng.h
+END
+contiki-raven.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/contiki-raven.h
+END
+cdc_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/cdc_task.h
+END
+contiki-raven-default-init-net.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/contiki-raven-default-init-net.c
+END
+httpd-simple-avr.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/httpd-simple-avr.c
+END
+sicslow_ethernet.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/sicslow_ethernet.c
+END
+contiki-raven-default-init-lowlevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/contiki-raven-default-init-lowlevel.c
+END
+Makefile.avr-ravenusb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/Makefile.avr-ravenusb
+END
+rng.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/rng.c
+END
+sicslow_ethernet.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/avr-ravenusb/sicslow_ethernet.h
+END

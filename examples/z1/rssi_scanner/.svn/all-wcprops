@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/rssi_scanner
+END
+ViewRSSI.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/rssi_scanner/ViewRSSI.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/rssi_scanner/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/rssi_scanner/project-conf.h
+END
+ViewRSSI3D.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/rssi_scanner/ViewRSSI3D.java
+END
+rssi-scanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/z1/rssi_scanner/rssi-scanner.c
+END

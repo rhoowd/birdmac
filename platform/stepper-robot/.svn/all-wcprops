@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot
+END
+usb-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/usb-main.c
+END
+contiki-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/contiki-main.c
+END
+sam7s-spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/sam7s-spi.c
+END
+sys-tst.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/sys-tst.c
+END
+cc2420-spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/cc2420-spi.c
+END
+cc2420-interrupt.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/cc2420-interrupt.c
+END
+sam7s-spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/sam7s-spi.h
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/core.c
+END
+contiki-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/contiki-conf.h
+END
+cc2420-interrupt.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/cc2420-interrupt.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/Makefile
+END
+stepper-process.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/stepper-process.c
+END
+Makefile.stepper-robot
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/Makefile.stepper-robot
+END
+leds-arch.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/leds-arch.c
+END
+stepper-process.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/stepper-process.h
+END
+robot-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/36/birdmac_exp/platform/stepper-robot/robot-main.c
+END

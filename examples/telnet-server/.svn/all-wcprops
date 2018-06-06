@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server
+END
+Makefile.atarixl.defines
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/Makefile.atarixl.defines
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/Makefile
+END
+telnet-server.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/telnet-server.c
+END
+Makefile.target
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/Makefile.target
+END
+Makefile.c64.defines
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/Makefile.c64.defines
+END
+Makefile.c128.defines
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/Makefile.c128.defines
+END
+Makefile.apple2enh.defines
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/telnet-server/Makefile.apple2enh.defines
+END

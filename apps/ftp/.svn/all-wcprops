@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp
+END
+ftpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/ftpc.c
+END
+ftp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/ftp.h
+END
+ftp-dsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/ftp-dsc.c
+END
+ftpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/ftpc.h
+END
+Makefile.ftp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/Makefile.ftp
+END
+ftp-dsc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/ftp-dsc.h
+END
+ftp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/apps/ftp/ftp.c
+END

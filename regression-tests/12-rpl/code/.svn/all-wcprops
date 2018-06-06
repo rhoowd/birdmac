@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/code
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/code/Makefile
+END
+project-conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/code/project-conf.h
+END
+sender-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/code/sender-node.c
+END
+root-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/code/root-node.c
+END
+receiver-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/regression-tests/12-rpl/code/receiver-node.c
+END

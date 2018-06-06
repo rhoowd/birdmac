@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/cc2431-location-engine
+END
+cc2431_loc_eng.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/cc2431-location-engine/cc2431_loc_eng.h
+END
+blind-node.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/cc2431-location-engine/blind-node.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/examples/sensinode/cc2431-location-engine/Makefile
+END
