@@ -5,9 +5,9 @@
  *      Author: user
  */
 #include "birddata.h"
+
 char birddata_enqueue(BirdData data,Birdqueue* pQueue)
 {
-//	printf("e%d %d\n",pQueue->head,pQueue->tail);
     if ((pQueue->tail + 1) % pQueue->max == pQueue->head){
         printf("[error] Queue overflow.\n");
         return 0;
@@ -39,6 +39,7 @@ char birddata_from_birdlog(char id, char pc_mode, int cycle_cnt, struct BirdLog*
 	pQueue->tail++;
 	return 1;
 }
+
 int birddata_make_packet(char* ptr,Birdqueue* pQueue)
 {
 	char* p;
@@ -62,6 +63,7 @@ int birddata_make_packet(char* ptr,Birdqueue* pQueue)
 	else
 		return (i*sizeof(BirdData)+1);
 }
+
 char birddata_get_packet(char* ptr,Birdqueue* pQueue)
 {
 	char* p;

@@ -15,7 +15,7 @@
 /* platform */
 #define PLATFORM_L 			COOJA_L		/* MICAZ_L, Z1MOTE_L, COOJA_L */
 #define EXPERIMENT			0
-#define DATA_ON				0
+#define DATA_ON				1
 #define PARAM_L 			0
 #define BRIDGE_L			0
 
@@ -33,17 +33,17 @@
 #define DRIFT_NORMAL			1	/*1:truncated normal, 0:uniform random */
 #define SIGMA					(PERIOD*0.000003528)
 #if PLATFORM_L ==  COOJA_L
-	#define CARRIER_SENSING_TIME	1*CLOCK_SECOND/128   //7ms
+	#define CARRIER_SENSING_TIME	1*CLOCK_SECOND/128 / 5   //7ms
 	#define WAIT_ACK_TIME			3*CLOCK_SECOND/128  //3*CLOCK_SECOND/128
 	#define DWELL_TIME				3*CLOCK_SECOND/128  // after parent finishes SYNC wait for additional packet for BS
 	#define WAIT_PULSE_TIME			3*CLOCK_SECOND/128	// wait time after sending BEACON_P
-	#define NEXT_WAKEUP_TIME		(120*CLOCK_SECOND)
+	#define NEXT_WAKEUP_TIME		(60*CLOCK_SECOND)
 	#define MSG_TIME_SLOT			(2 * RTIMER_ARCH_SECOND / 128)
 	#define RETRS					7
 	#define INIT_CWND				(0.002)
 	#define MAX_CWND				(0.010)
 	#define FB_TIME					(0.010)
-	#define DATA_TIME				(20*CLOCK_SECOND)
+	#define DATA_TIME				(10*CLOCK_SECOND)
 	#define DATA_SLOT				4*CLOCK_SECOND/128
 	#define DATA_BACKOFF			(0.010)
 #else

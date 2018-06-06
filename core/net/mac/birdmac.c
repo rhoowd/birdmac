@@ -351,14 +351,6 @@ cpowercycle(void *ptr)
 			PT_YIELD(&pt);
 		}
 
-#if PLATFORM_L == COOJA_L
-		// for clearing input buffer // only for unliable link simulation
-		radio_on();
-		bird_wait(10,0,0,&pc_ctimer,cpowercycle);
-		PT_YIELD(&pt);
-		radio_off();
-#endif
-
 		birdLogClear(&birdLog); // jjh 0103 for print log
 
 		PRINTF("[bird] Start cycle as %d\n",pc_mode);
@@ -482,27 +474,51 @@ cpowercycle(void *ptr)
 					pc_ret = bird_send_strobe(&topo_info.parent_addr,TYPE_BEACON);
 					PRINTF_D("[cycle] strobe return %d\n",pc_ret);
 
-					// NO_ACK
-					if(pc_ret == 0)
-					{
-						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_NODDING\n");
-						pc_state = CHILD_NODDING;
-					}
-					else if(pc_ret == 1) // got ack
-					{
-						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_SYNC\n");
-						pc_state = CHILD_SYNC;
-					}
-					else if(pc_ret == 3) // collision
+					if(pc_ret == 3) // collision
 					{
 						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_BACK_OFF\n");
 						pc_state = CHILD_BACK_OFF;
 					}
-					else
+
+					radio_on();
+					bird_wait(PC_ON_TIME,1,TYPE_BEACON_ACK,&pc_ctimer,cpowercycle);
+					PT_YIELD(&pt);
+
+					if(bird_wait_info.bird_input == CLEAR) // NO_ACK
 					{
-						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_DONE\n");
-						pc_state = CHILD_DONE;
+						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_NODDING\n");
+						pc_state = CHILD_NODDING;
 					}
+					else if(bird_wait_info.bird_input == TYPE_BEACON_ACK) // got ack
+					{
+						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_SYNC\n");
+						pc_state = CHILD_SYNC;
+					}
+
+
+//					// NO_ACK
+//					if(pc_ret == 0)
+//					{
+//						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_NODDING\n");
+//						pc_state = CHILD_NODDING;
+//					}
+//					else if(pc_ret == 1) // got ack
+//					{
+//						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_SYNC\n");
+//						pc_state = CHILD_SYNC;
+//					}
+//					else if(pc_ret == 3) // collision
+//					{
+//						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_BACK_OFF\n");
+//						pc_state = CHILD_BACK_OFF;
+//					}
+//					else
+//					{
+//						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_DONE\n");
+//						pc_state = CHILD_DONE;
+//					}
+
+
 				}
 				else if(pc_state == CHILD_NODDING)
 				{
@@ -582,10 +598,8 @@ cpowercycle(void *ptr)
 
 					radio_off();
 					rtimer_clock_t t;
-					rtimer_clock_t t_wait =
-							(bird_config.strobe_time) - (strobe_cnt)*(PC_ON_TIME_R) // To shorten child's first time slot 1227
-							+ (topo_info.slot_num-1) * MSG_TIME_SLOT + (RTIMER_ARCH_SECOND/128); // delay jjh 1229
-//			printf("beacon num cal %u\n",bird_config.strobe_time/bird_config.strobe_wait_time);
+					rtimer_clock_t t_wait = (topo_info.slot_num-1) * MSG_TIME_SLOT; // + (RTIMER_ARCH_SECOND/128); // kkk: Do we need Delay?
+
 					t = RTIMER_NOW() + t_wait;
 					while(RTIMER_CLOCK_LT(RTIMER_NOW(), t))    {}
 					radio_on();
@@ -975,6 +989,7 @@ cpowercycle(void *ptr)
 #if PARAM_L == 1
 		printf("[param] %d\n",param_l);
 #endif
+
 #if DATA_ON && PLATFORM_L != COOJA_L
 		birddata_from_birdlog(rimeaddr_node_addr.u8[0],(char)pc_mode,
 				bird_cycle_cnt,&birdLog,&birdQueue);
@@ -999,11 +1014,13 @@ cpowercycle(void *ptr)
 static char
 bird_data(void *ptr)
 {
+
 	PT_BEGIN(&pt_data);
 
 	PRINTF_DATA("[data] start\n");
 	while(1)
 	{
+
 		while(pc_mode != PC_DATA) // wait until being scheduled.
 		{
 			bird_wait(INFINITE_TIME,0,0,&data_ctimer,bird_data);
@@ -1076,6 +1093,7 @@ bird_data(void *ptr)
 	PT_END(&pt_data);
 }
 /*---------------------------------------------------------------------------*/
+
 static char
 bird_schedule(void *ptr)
 {
@@ -1220,6 +1238,7 @@ bird_schedule(void *ptr)
 
 #if DATA_ON
 		leds_on(7);
+		printf("data on\n");
 		pc_mode = PC_DATA;
 		bird_wait(0,0,0,&data_ctimer,bird_data);
 		ctimer_set(&sche_ctimer,bird_time(DATA_TIME),
@@ -1249,6 +1268,51 @@ bird_schedule(void *ptr)
 }
 /*---------------------------------------------------------------------------*/
 static char bird_send_strobe(rimeaddr_t *dst,uint8_t type)
+{
+	int strobes;
+	struct bird_hdr *hdr;
+	uint8_t strobe[MAX_PACKET_SIZE];
+	int strobe_len, len;
+	int strobe_ret=0;
+
+	// set packet attribute //
+	packetbuf_clear();
+	packetbuf_set_addr(PACKETBUF_ADDR_SENDER,&rimeaddr_node_addr);
+	packetbuf_set_addr(PACKETBUF_ADDR_RECEIVER,dst);
+	len = NETSTACK_FRAMER.create();
+
+	// strobe_len: 1 for slot num for num of beacon //
+	strobe_len = len + sizeof(struct bird_hdr)+1;
+	if(len < 0 || strobe_len > (int)sizeof(strobe))
+	{
+		PRINTF("[bird] send strobe failed, too large header\n");
+		return MAC_TX_ERR_FATAL;
+	}
+
+	// make strobe pacekt //
+	memcpy(strobe, packetbuf_hdrptr(), len);
+	strobe[len] = DISPATCH; /* dispatch */
+	strobe[len + 1] = type; /* type */
+
+	strobes = 0;
+	radio_on();
+	NETSTACK_RADIO.read(packetbuf_dataptr(), PACKETBUF_SIZE); // kdw
+	/* Send the strobe packet. */
+	if(type==TYPE_BEACON_P)
+	{
+		strobe[strobe_len-1] = (char)strobes;
+	}
+	strobe_ret=NETSTACK_RADIO.send(strobe, strobe_len);
+	if(strobe_ret != RADIO_TX_OK) // FAIL to TX strobe
+	{
+		return 3;
+	}
+
+	return 0; // no packet at all
+
+
+}
+static char bird_send_strobe1(rimeaddr_t *dst,uint8_t type)
 {
 	rtimer_clock_t t0;
 	rtimer_clock_t t;
@@ -1419,9 +1483,11 @@ static char bird_send_data(rimeaddr_t *dst)
 	data[len] = DISPATCH; /* dispatch */
 	data[len + 1] = TYPE_DATA; /* type */
 
+	bird_data_len = 1;
 #if PLATFORM_L != COOJA_L
 	bird_data_len = birddata_make_packet(data+len+2,&birdQueue);
 #endif
+
 	if(bird_data_len == 0)
 		return -1;
 	else
@@ -1429,6 +1495,7 @@ static char bird_send_data(rimeaddr_t *dst)
 
 	radio_on();
 	ret = NETSTACK_RADIO.send(data, data_len);
+
 	PRINTF_D("[bird] send_data ret %d \n",ret);
 	if(ret != RADIO_TX_OK)
 		return -2;
@@ -1587,10 +1654,10 @@ static void radio_off() {
 static int
 send_one_packet(mac_callback_t sent, void *ptr)
 {
-	rimeaddr_t addr;
-	addr.u8[0] = 1;
-	addr.u8[1] = 0;
-	bird_send_type(&addr,TYPE_BEACON);
+	//	rimeaddr_t addr;
+	//	addr.u8[0] = 1;
+	//	addr.u8[1] = 0;
+	//	bird_send_type(&addr,TYPE_BEACON);
 	//	bird_send_strobe(&addr,TYPE_BEACON);
 
 	int ret;
@@ -1633,6 +1700,7 @@ send_packet(mac_callback_t sent, void *ptr)
 static void
 send_list(mac_callback_t sent, void *ptr, struct rdc_buf_list *buf_list)
 {
+	printf("list\n");
 	while(buf_list != NULL) {
 		/* We backup the next pointer, as it may be nullified by
 		 * mac_call_sent_callback() */
@@ -1655,6 +1723,7 @@ send_list(mac_callback_t sent, void *ptr, struct rdc_buf_list *buf_list)
 static void
 packet_input(void)
 {
+
 	int original_datalen;
 	uint8_t *original_dataptr;
 
