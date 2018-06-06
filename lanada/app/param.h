@@ -33,7 +33,7 @@
 #define DRIFT_NORMAL			1	/*1:truncated normal, 0:uniform random */
 #define SIGMA					(PERIOD*0.000003528)
 #if PLATFORM_L ==  COOJA_L
-	#define CARRIER_SENSING_TIME	1*CLOCK_SECOND/128  //7ms
+	#define CARRIER_SENSING_TIME	1*CLOCK_SECOND/128   //7ms
 	#define WAIT_ACK_TIME			3*CLOCK_SECOND/128  //3*CLOCK_SECOND/128
 	#define DWELL_TIME				3*CLOCK_SECOND/128  // after parent finishes SYNC wait for additional packet for BS
 	#define WAIT_PULSE_TIME			3*CLOCK_SECOND/128	// wait time after sending BEACON_P
@@ -64,7 +64,8 @@
 
 
 /* Setting */
-#define TOPOLOGY				(333)
+// #define TOPOLOGY				(333)
+#define TOPOLOGY				(1)
 #define RANDOM_SEED				(0)
 #define BEACON_SUPPRESS			(1)
 #define MAX_DATA_SLOT			30

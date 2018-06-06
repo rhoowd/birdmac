@@ -456,7 +456,6 @@ cpowercycle(void *ptr)
 							PRINTF_S("[state] CHILD_WAKEUP -> CHILD_RX_BEACON_P\n");
 							pc_state = CHILD_RX_BEACON_P;
 							continue;
-							// herererere!!!! kdw
 						}
 #if BEACON_SUPPRESS == 0
 						PRINTF_D("[cycle] Channel busy\n");
@@ -507,10 +506,10 @@ cpowercycle(void *ptr)
 				}
 				else if(pc_state == CHILD_NODDING)
 				{
-					// repeat on and off
-					radio_off();
-					bird_wait(PC_OFF_TIME,0,0,&pc_ctimer,cpowercycle);
-					PT_YIELD(&pt);
+					// repeat on and off // kkk: turn off child's nodding
+//					radio_off();
+//					bird_wait(PC_OFF_TIME,0,0,&pc_ctimer,cpowercycle);
+//					PT_YIELD(&pt);
 
 					radio_on();
 					bird_wait(PC_ON_TIME,1,TYPE_BEACON_P,&pc_ctimer,cpowercycle);
@@ -840,10 +839,10 @@ cpowercycle(void *ptr)
 				}
 				else if(pc_state == PARENT_NODDING)
 				{
-					// repeat on and off
-					radio_off();
-					bird_wait(PC_OFF_TIME,0,0,&pc_ctimer,cpowercycle);
-					PT_YIELD(&pt);
+					// repeat on and off // kkk: Turn off parent's nodding
+//					radio_off();
+//					bird_wait(PC_OFF_TIME,0,0,&pc_ctimer,cpowercycle);
+//					PT_YIELD(&pt);
 
 					radio_on();
 					bird_wait(PC_ON_TIME,1,TYPE_BEACON,&pc_ctimer,cpowercycle);
