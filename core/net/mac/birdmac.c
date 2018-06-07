@@ -1156,7 +1156,7 @@ bird_schedule(void *ptr)
 #endif
 
 		// sleep until next schedule
-		ctimer_set(&sche_ctimer,(MAX_LEVEL+1)*TIME_SLOT*TIME_SLOT_NUM,(void (*)(void *))bird_schedule, NULL);
+		ctimer_set(&sche_ctimer,(MAX_LEVEL+2)*TIME_SLOT*TIME_SLOT_NUM,(void (*)(void *))bird_schedule, NULL);
 
 		if(topo_info.tree_state == SINK)
 		{
@@ -1181,15 +1181,20 @@ bird_schedule(void *ptr)
 				PT_YIELD(&pt_sche);
 			}
 			leds_off(LEDS_BLUE);
-#if PLATFORM_L==Z1MOTE_L
-			birdtrace_log("p");
-#endif
 		}
 		else
 		{
+			int par = 0;
+			if(topo_info.parent_addr.u8[0]==2)
+				par = 0;
+			else if(topo_info.parent_addr.u8[0]==3)
+				par = 1;
+			else if(topo_info.parent_addr.u8[0]==4)
+				par = 2;
+
 			next_wakeup_time = dclock_get_time(dc) + bird_time(NEXT_WAKEUP_TIME); // for recovery
 			// level scheduling
-			ctimer_set(&sche_cycle_ctimer,(topo_info.level-1)*TIME_SLOT_NUM*TIME_SLOT+2,
+			ctimer_set(&sche_cycle_ctimer,(topo_info.level-1 + par)*TIME_SLOT_NUM*TIME_SLOT+2,
 					(void (*)(void *))bird_schedule, NULL);
 			PT_YIELD(&pt_sche);
 
@@ -1210,9 +1215,7 @@ bird_schedule(void *ptr)
 				PT_YIELD(&pt_sche);
 			}
 			leds_off(LEDS_GREEN);
-#if PLATFORM_L==Z1MOTE_L
-			birdtrace_log("c");
-#endif
+
 
 			if (recovery_flag == 1)
 			{
@@ -1223,6 +1226,9 @@ bird_schedule(void *ptr)
 
 			if(topo_info.tree_state == MIDDLE)
 			{
+				ctimer_set(&sche_cycle_ctimer,(rimeaddr_node_addr.u8[0]-2)*TIME_SLOT_NUM*TIME_SLOT+2,
+						(void (*)(void *))bird_schedule, NULL);
+				PT_YIELD(&pt_sche);
 				leds_on(LEDS_BLUE);
 				ctimer_set(&sche_cycle_ctimer, TIME_SLOT_NUM*TIME_SLOT+2,
 						(void (*)(void *))bird_schedule, NULL);

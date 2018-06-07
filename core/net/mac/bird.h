@@ -66,6 +66,7 @@ struct Topo_info
 	char num_contention;
 	uint8_t child_addr[MAX_CHILD];
 	char bridge;
+	int par;
 } topo_info;
 /* Declare Threads */
 struct pt pt;

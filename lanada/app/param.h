@@ -20,10 +20,10 @@
 #define BRIDGE_L			0
 
 /* time parameter */
-#define CLOCK_RATE_L		(0.89)
-
-//#define PERIOD 					((long)43200)			//(sec)
+#define ARRIVAL_RATE		600
 #define PERIOD 					((long)1200)			//(sec)
+
+#define CLOCK_RATE_L		(0.89)
 #define PERIOD_MINUTE			(PERIOD/60)				//(min)
 #define SHORT_TEST				(0)						// 1: short period test, 0: real_test
 #define R_DRIFT 				(25.0/1000000.0)

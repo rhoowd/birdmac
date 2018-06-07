@@ -40,6 +40,7 @@
 #include "param.h"
 #include "contiki.h"
 #include "net/rime.h"
+#include "lib/random.h"
 
 #include "dev/button-sensor.h"
 
@@ -62,23 +63,28 @@ static struct unicast_conn uc;
 PROCESS_THREAD(example_unicast_process, ev, data)
 {
   PROCESS_EXITHANDLER(unicast_close(&uc);)
-    
   PROCESS_BEGIN();
 
-
-#if PLATFORM_L == Z1MOTE_L
-  birdtrace_start();
-  birdtrace_log_string("start");
-#endif
+  static clock_time_t poisson_int;
+  float rand_num;
+  static int seq = 0;
 
   unicast_open(&uc, 146, &unicast_callbacks);
-  static int seq = 0;
   while(1) {
     static struct etimer et;
     rimeaddr_t addr;
     seq++;
 
-    etimer_set(&et, 60*CLOCK_SECOND);
+
+    rand_num=random_rand()/(float)RANDOM_RAND_MAX;
+    //  printf("rand_num %f\n",rand_num);
+    poisson_int = (-ARRIVAL_RATE) * logf(rand_num) * CLOCK_SECOND;
+    if(poisson_int == 0)
+    	poisson_int = 1;
+    //  printf("poisson %d\n",poisson_int);
+    etimer_set(&et, poisson_int);
+
+//    etimer_set(&et, 300*CLOCK_SECOND);
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
 
     //  packetbuf_copyfrom("Hello", 5);
@@ -87,7 +93,7 @@ PROCESS_THREAD(example_unicast_process, ev, data)
     addr.u8[1] = 0;
 
     if(!rimeaddr_cmp(&addr, &rimeaddr_node_addr)) {
-    	// printf("[app] Send request: %d\n", seq);
+    	printf("app: DATA id:%04d from:%03d\n", seq, rimeaddr_node_addr.u8[0]);
     	unicast_send(&uc, &addr);
     }
 

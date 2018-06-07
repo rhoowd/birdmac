@@ -106,11 +106,12 @@ int birddata_recv_packet(char* packet, Birdqueue* pQueue)
 }
 void birddata_print_one_data(BirdData* data)
 {
-	printf("[queue] %3d  %4d \n",data->id, data->seq);
+	//	printf("[queue] %3d  %4d \n",data->id, data->seq);
+	printf("DATA recv 'DATA id:%04d from:%03d'\n", data->seq, data->id);
 }
 void birddata_queue_print(Birdqueue* pQueue)
 {
-	printf("\n[queue]  id   seq\n");
+
 	int i=0;
 	for(i=pQueue->head; i%pQueue->max != pQueue->tail; i++)
 		birddata_print_one_data(&(pQueue->queue[i]));

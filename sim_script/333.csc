@@ -22,7 +22,7 @@
     </events>
     <motetype>
       se.sics.cooja.contikimote.ContikiMoteType
-      <identifier>mtype73</identifier>
+      <identifier>mtype434</identifier>
       <description>Cooja Mote Type #1</description>
       <source>[CONTIKI_DIR]/lanada/app/app.c</source>
       <commands>make app.cooja TARGET=cooja</commands>
@@ -47,8 +47,8 @@
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>49.8649309503644</x>
-        <y>45.74178818675612</y>
+        <x>50.33694470710727</x>
+        <y>45.76590279241885</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -59,13 +59,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>35.87490177333485</x>
-        <y>57.41341545608531</y>
+        <x>37.86795416529032</x>
+        <y>54.21945570212525</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -76,13 +76,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>61.90167706871179</x>
-        <y>56.957847069761634</y>
+        <x>64.4966458308655</x>
+        <y>53.58543923389728</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -93,7 +93,7 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
@@ -110,13 +110,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>15.669629477786597</x>
-        <y>61.334845658251595</y>
+        <x>16.522733068281656</x>
+        <y>60.770959207147726</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -127,13 +127,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>21.68800253696029</x>
-        <y>70.90953007057338</y>
+        <x>23.91959186427476</x>
+        <y>68.3791568258835</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -144,13 +144,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>31.26268694928209</x>
-        <y>75.83365348262458</y>
+        <x>31.527789483010526</x>
+        <y>73.66262739445</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -161,7 +161,7 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
@@ -178,13 +178,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
         se.sics.cooja.interfaces.Position
-        <x>76.6740473048654</x>
-        <y>63.796907364277196</y>
+        <x>77.59965284091042</x>
+        <y>64.36371919377295</y>
         <z>0.0</z>
       </interface_config>
       <interface_config>
@@ -195,7 +195,7 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
@@ -212,7 +212,7 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
@@ -229,7 +229,7 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
@@ -246,7 +246,7 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
     <mote>
       <interface_config>
@@ -263,13 +263,13 @@
         se.sics.cooja.contikimote.interfaces.ContikiRadio
         <bitrate>250.0</bitrate>
       </interface_config>
-      <motetype_identifier>mtype73</motetype_identifier>
+      <motetype_identifier>mtype434</motetype_identifier>
     </mote>
   </simulation>
   <plugin>
     se.sics.cooja.plugins.SimControl
     <width>280</width>
-    <z>5</z>
+    <z>4</z>
     <height>160</height>
     <location_x>400</location_x>
     <location_y>0</location_y>
@@ -282,7 +282,7 @@
       <coloring />
     </plugin_config>
     <width>1648</width>
-    <z>3</z>
+    <z>1</z>
     <height>433</height>
     <location_x>400</location_x>
     <location_y>160</location_y>
@@ -309,7 +309,7 @@
       <zoomfactor>100000.0</zoomfactor>
     </plugin_config>
     <width>2048</width>
-    <z>2</z>
+    <z>3</z>
     <height>320</height>
     <location_x>0</location_x>
     <location_y>666</location_y>
@@ -321,7 +321,7 @@
       <decorations>true</decorations>
     </plugin_config>
     <width>1368</width>
-    <z>6</z>
+    <z>7</z>
     <height>160</height>
     <location_x>680</location_x>
     <location_y>0</location_y>
@@ -336,10 +336,8 @@
  *  Mote mote, int id, String msg&#xD;
  */&#xD;
 &#xD;
-// TIMEOUT(69130);&#xD;
-// TIMEOUT(132115);&#xD;
-// TIMEOUT(1338477);&#xD;
-TIMEOUT(1200000000);&#xD;
+// TIMEOUT(70000);&#xD;
+TIMEOUT(1200000000);	&#xD;
 while (true) {&#xD;
   log.log(time + ":" + id + ":" + msg + "\n");&#xD;
   YIELD();&#xD;
@@ -347,7 +345,7 @@ while (true) {&#xD;
       <active>true</active>
     </plugin_config>
     <width>600</width>
-    <z>1</z>
+    <z>2</z>
     <height>700</height>
     <location_x>1444</location_x>
     <location_y>160</location_y>
@@ -355,7 +353,7 @@ while (true) {&#xD;
   <plugin>
     PowerTracker
     <width>400</width>
-    <z>0</z>
+    <z>6</z>
     <height>400</height>
     <location_x>1045</location_x>
     <location_y>162</location_y>
@@ -366,13 +364,21 @@ while (true) {&#xD;
       <moterelations>true</moterelations>
       <skin>se.sics.cooja.plugins.skins.IDVisualizerSkin</skin>
       <skin>se.sics.cooja.plugins.skins.UDGMVisualizerSkin</skin>
-      <viewport>4.7317382912540635 0.0 0.0 4.7317382912540635 -34.18124873535806 -28.552274676699575</viewport>
+      <viewport>4.7317382912540635 0.0 0.0 4.7317382912540635 -35.18124873535808 -11.552274676699536</viewport>
     </plugin_config>
     <width>400</width>
-    <z>4</z>
+    <z>5</z>
     <height>400</height>
     <location_x>1</location_x>
     <location_y>1</location_y>
+  </plugin>
+  <plugin>
+    PowerTracker
+    <width>400</width>
+    <z>0</z>
+    <height>400</height>
+    <location_x>1044</location_x>
+    <location_y>266</location_y>
   </plugin>
 </simconf>
 
