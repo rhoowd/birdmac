@@ -80,7 +80,7 @@ struct bird_hdr {
 	#define DEBUG_DETAIL 0
 	#define DEBUG_TIME 0
 	#define DEBUG_INIT 0
-	#define DEBUG_STATE 0
+	#define DEBUG_STATE 1
 	#define DEBUG_TABLE 0
 	#define DEBUG_DATA 0
 #endif

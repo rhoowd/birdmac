@@ -12,20 +12,14 @@
 #include "birdlog.h"
 #include "stdio.h"
 
-#define MAX_DATA_NUM	5
+#define MAX_DATA_NUM	10
 #define DATA_END		(-1)
 
 typedef struct
 {
-	char id;
-	char pc_mode;
-	char msg;
-	char beacon;
-	int cycle_cnt;
-	int clockdrift;
-	long int onTime;
-	char flag;
-	char dump;
+	int id;
+	int seq;
+
 } BirdData;
 
 typedef struct
@@ -39,7 +33,7 @@ typedef struct
 
 char birddata_enqueue(BirdData data,Birdqueue* pQueue);
 char birddata_dequeue(Birdqueue* pQueue);
-char birddata_from_birdlog(char id, char pc_mode, int cycle_cnt, struct BirdLog* log,Birdqueue* pQueue);
+char birddata_from_data(int id, int seq, Birdqueue* pQueue);
 int birddata_make_packet(char* ptr,Birdqueue* pQueue);
 char birddata_get_packet(char* ptr,Birdqueue* pQueue);
 int birddata_queue_get_next(Birdqueue* pQueue);

@@ -65,28 +65,30 @@ PROCESS_THREAD(example_unicast_process, ev, data)
     
   PROCESS_BEGIN();
 
-  printf("size: %d %d\n",sizeof(int),sizeof(long));
+
 #if PLATFORM_L == Z1MOTE_L
   birdtrace_start();
   birdtrace_log_string("start");
 #endif
 
   unicast_open(&uc, 146, &unicast_callbacks);
-
+  static int seq = 0;
   while(1) {
     static struct etimer et;
     rimeaddr_t addr;
-    
+    seq++;
 
     etimer_set(&et, 60*CLOCK_SECOND);
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
 
-
-    packetbuf_copyfrom("Hello", 5);
+    //  packetbuf_copyfrom("Hello", 5);
+    packetbuf_copyfrom(&seq, sizeof(int));
     addr.u8[0] = 1;
     addr.u8[1] = 0;
+
     if(!rimeaddr_cmp(&addr, &rimeaddr_node_addr)) {
-      unicast_send(&uc, &addr);
+    	// printf("[app] Send request: %d\n", seq);
+    	unicast_send(&uc, &addr);
     }
 
   }

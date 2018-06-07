@@ -42,10 +42,10 @@ struct Dclock *dc;
 
 
 /* DATA */
-#if PLATFORM_L != COOJA_L
+
 Birdqueue birdQueue;
-BirdData birdData[2*NODE_NUM];
-#endif
+BirdData birdData[BIRD_QUEUE_SIZE];
+
 
 
 /* Time synchronization */

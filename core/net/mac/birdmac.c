@@ -388,9 +388,10 @@ cpowercycle(void *ptr)
 					else if(pc_state == CHILD_NODDING || pc_state == PARENT_NODDING)
 					{
 						PRINTF_D("[cycle] FB on %d \n",pc_state);
+						printf("[FB] on %d \n",pc_state);
 						FB_flag = 1;
 //#if DATA_ON && PLATFORM_L != COOJA_L
-						birdLogCom(BIRD_LOG_FB,&birdLog);
+//						birdLogCom(BIRD_LOG_FB,&birdLog);
 //#endif
 					}
 				}
@@ -427,6 +428,7 @@ cpowercycle(void *ptr)
 				if(pc_state == CHILD_WAKEUP)
 				{
 					PRINTF("CHILD_WAKEUP DEBUG\n");
+
 					radio_on();
 					// wait for 7ms
 					//					bird_wait(CARRIER_SENSING_TIME,0,0,&pc_ctimer,cpowercycle);
@@ -442,6 +444,7 @@ cpowercycle(void *ptr)
 					// busy -> defer tx
 					else
 					{
+
 						if(bird_wait_info.bird_input == TYPE_BEACON_P
 								&& bird_wait_info.bird_from == topo_info.parent_addr.u8[0])
 						{
@@ -449,6 +452,13 @@ cpowercycle(void *ptr)
 							pc_state = CHILD_RX_BEACON_P;
 							continue;
 						}
+//						else if(bird_wait_info.bird_input == TYPE_BEACON_ACK
+//								&& bird_wait_info.bird_from == topo_info.parent_addr.u8[0])  // kkk: fake
+//						{
+//							PRINTF_S("[state] CHILD_WAKEUP -> CHILD_RX_BEACON_P\n");
+//							pc_state = CHILD_RX_BEACON_P;
+//							continue;
+//						}
 #if BEACON_SUPPRESS == 0
 						PRINTF_D("[cycle] Channel busy\n");
 						PRINTF_S("[state] CHILD_WAKEUP (stay)\n");
@@ -471,6 +481,9 @@ cpowercycle(void *ptr)
 				else if(pc_state == CHILD_TX_BEACON)
 				{
 					// send strobe
+//					bird_wait(10,1,TYPE_BEACON_P,&pc_ctimer,cpowercycle);
+//					PT_YIELD(&pt);
+
 					pc_ret = bird_send_strobe(&topo_info.parent_addr,TYPE_BEACON);
 					PRINTF_D("[cycle] strobe return %d\n",pc_ret);
 
@@ -478,6 +491,7 @@ cpowercycle(void *ptr)
 					{
 						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_BACK_OFF\n");
 						pc_state = CHILD_BACK_OFF;
+						continue;
 					}
 
 					radio_on();
@@ -494,6 +508,14 @@ cpowercycle(void *ptr)
 						PRINTF_S("[state] CHILD_TX_BEACON -> CHILD_SYNC\n");
 						pc_state = CHILD_SYNC;
 					}
+					else if(bird_wait_info.bird_input == TYPE_BEACON_P
+							&& bird_wait_info.bird_from == topo_info.parent_addr.u8[0])
+					{
+						PRINTF_S("[state] CHILD_WAKEUP -> CHILD_RX_BEACON_P\n");
+						pc_state = CHILD_RX_BEACON_P;
+						continue;
+					}
+
 
 
 //					// NO_ACK
@@ -537,6 +559,12 @@ cpowercycle(void *ptr)
 						PRINTF_S("[state] CHILD_NODDING -> CHILD_RX_BEACON_P\n");
 						pc_state = CHILD_RX_BEACON_P;
 					}
+					else if(bird_wait_info.bird_input == TYPE_BEACON_ACK) // 1226 Should check this packet is from my parent
+					{
+						PRINTF_S("[state] CHILD_NODDING -> CHILD_RX_BEACON_P\n");
+						pc_state = CHILD_RX_BEACON_P;
+					}
+
 
 					// time out
 
@@ -557,11 +585,12 @@ cpowercycle(void *ptr)
 						// wait for sync ACK
 						bird_wait(WAIT_ACK_TIME,1,TYPE_SYNC_ACK,&pc_ctimer,cpowercycle);
 						PT_YIELD(&pt);
-						if(bird_wait_info.bird_input == TYPE_SYNC_ACK)
+						if(bird_wait_info.bird_input == TYPE_SYNC_ACK && bird_wait_info.bird_mine == 1) // kkk: for me? or for others?
 						{
 							// send FINAL for sync ACK
 							if(bird_send_type(&topo_info.parent_addr,TYPE_SYNC_FINAL)==0)
 							{
+
 								// change state to parent
 								break;
 							}
@@ -990,21 +1019,13 @@ cpowercycle(void *ptr)
 		printf("[param] %d\n",param_l);
 #endif
 
-#if DATA_ON && PLATFORM_L != COOJA_L
-		birddata_from_birdlog(rimeaddr_node_addr.u8[0],(char)pc_mode,
-				bird_cycle_cnt,&birdLog,&birdQueue);
-		PRINTF_DATA("[data] data update %d\n",birddata_queue_size(&birdQueue));
-		//		birddata_queue_print(&birdQueue);
-		birdLogClear(&birdLog);
-#endif
-//		birddata_queue_print(&birdQueue);
-#if PLATFORM_L ==  COOJA_L
-		printf("[data] %3d  %4d  ",rimeaddr_node_addr.u8[0],bird_cycle_cnt);
-		printf("%s",(pc_mode==1 || pc_mode==8)?"PARENT":"CHILD ");
-		birdLogPrint(&birdLog); // jjh 0103 for print
-		printf("%d\n",beacon_supp_cnt);
-#endif
-
+//#if PLATFORM_L ==  COOJA_L
+//		printf("[data] %3d  %4d  ",rimeaddr_node_addr.u8[0],bird_cycle_cnt);
+//		printf("%s",(pc_mode==1 || pc_mode==8)?"PARENT":"CHILD ");
+//		birdLogPrint(&birdLog); // jjh 0103 for print
+//		printf("%d\n",beacon_supp_cnt);
+//#endif
+//
 		pc_mode = PC_SLEEP;
 
 	}
@@ -1040,19 +1061,25 @@ bird_data(void *ptr)
 
 			leds_off(7);
 			leds_on(LEDS_GREEN);
+			radio_on();
 			bird_wait(DATA_SLOT,0,0,&data_ctimer,bird_data);
 			PT_YIELD(&pt_data);
+			radio_off();
 
 			leds_off(7);
 			leds_on(LEDS_BLUE);
-			bird_wait(2*DATA_SLOT,0,0,&data_ctimer,bird_data);
+			bird_wait(DATA_SLOT,0,0,&data_ctimer,bird_data);
 
 			if(topo_info.tree_state != SINK /*&& topo_info.bridge == 0*/)
 			{
 				if(topo_info.slot_num == (data_cnt%topo_info.num_contention+1))
 				{
-					bird_wait_r(DATA_BACKOFF,1);
-					data_num = bird_send_data(&topo_info.parent_addr);
+					if (birddata_queue_size(&birdQueue) > 0)
+					{
+						radio_on();
+						bird_wait_r(DATA_BACKOFF,1);
+						data_num = bird_send_data(&topo_info.parent_addr);
+					}
 				}
 				bird_wait(WAIT_ACK_TIME,1,TYPE_DATA_ACK,&data_ack_ctimer,bird_data);
 				PT_YIELD(&pt_data);
@@ -1062,31 +1089,28 @@ bird_data(void *ptr)
 						&& data_num > 0)
 				{
 					PRINTF_DATA("[data] get data ACK\n");
-#if PLATFORM_L != COOJA_L
-					birddata_queue_free(data_num,&birdQueue);
-#endif
+					birddata_queue_free(data_num, &birdQueue);
 				}
+				radio_off();
 			}
+			PT_YIELD(&pt_data);
+
+			leds_off(7);
+			radio_off();
+			bird_wait(DATA_SLOT,0,0,&data_ctimer,bird_data);
 			PT_YIELD(&pt_data);
 
 			if(data_cnt >MAX_DATA_SLOT)
 				break;
-#if PLATFORM_L==MICAZ_L
-			if(topo_info.tree_state == SINK /*|| topo_info.bridge == 1*/)
-			{
-				birddata_queue_print(&birdQueue);
-				birddata_queue_clear(&birdQueue);
-			}
-#endif
 		}
 		pc_mode = PC_SLEEP;
 		radio_off();
-#if PLATFORM_L != COOJA_L
+
 		if(topo_info.tree_state == SINK /*|| topo_info.bridge == 1*/)
 			birddata_queue_print(&birdQueue);
 
 		birddata_queue_clear(&birdQueue);
-#endif
+
 	}
 
 
@@ -1238,7 +1262,6 @@ bird_schedule(void *ptr)
 
 #if DATA_ON
 		leds_on(7);
-		printf("data on\n");
 		pc_mode = PC_DATA;
 		bird_wait(0,0,0,&data_ctimer,bird_data);
 		ctimer_set(&sche_ctimer,bird_time(DATA_TIME),
@@ -1274,6 +1297,7 @@ static char bird_send_strobe(rimeaddr_t *dst,uint8_t type)
 	uint8_t strobe[MAX_PACKET_SIZE];
 	int strobe_len, len;
 	int strobe_ret=0;
+	int collision_len = 0;
 
 	// set packet attribute //
 	packetbuf_clear();
@@ -1296,7 +1320,11 @@ static char bird_send_strobe(rimeaddr_t *dst,uint8_t type)
 
 	strobes = 0;
 	radio_on();
-	NETSTACK_RADIO.read(packetbuf_dataptr(), PACKETBUF_SIZE); // kdw
+	collision_len = NETSTACK_RADIO.read(packetbuf_dataptr(), PACKETBUF_SIZE); // kdw
+	if (collision_len > 0)
+	{
+		return 3;
+	}
 	/* Send the strobe packet. */
 	if(type==TYPE_BEACON_P)
 	{
@@ -1483,10 +1511,7 @@ static char bird_send_data(rimeaddr_t *dst)
 	data[len] = DISPATCH; /* dispatch */
 	data[len + 1] = TYPE_DATA; /* type */
 
-	bird_data_len = 1;
-#if PLATFORM_L != COOJA_L
 	bird_data_len = birddata_make_packet(data+len+2,&birdQueue);
-#endif
 
 	if(bird_data_len == 0)
 		return -1;
@@ -1694,7 +1719,12 @@ send_one_packet(mac_callback_t sent, void *ptr)
 static void
 send_packet(mac_callback_t sent, void *ptr)
 {
-	send_one_packet(sent, ptr);
+	int seq = 0;
+	memcpy(&seq, packetbuf_dataptr(), sizeof(int));
+
+	birddata_from_data(rimeaddr_node_addr.u8[0], seq, &birdQueue);
+ 	// birddata_queue_print(&birdQueue);
+	// send_one_packet(sent, ptr);
 }
 /*---------------------------------------------------------------------------*/
 static void
@@ -1808,9 +1838,9 @@ packet_input(void)
 			if(bird_wait_info.bird_input == TYPE_DATA)
 			{
 				char* recv_data_ptr = (char*)hdr+sizeof(struct bird_hdr);
-#if PLATFORM_L != COOJA_L
+
 				birddata_get_packet(recv_data_ptr,&birdQueue);
-#endif
+
 				temp_addr.u8[1] = 0;
 				temp_addr.u8[0] = bird_wait_info.bird_from;
 				bird_send_type(&temp_addr,TYPE_DATA_ACK);
@@ -1858,6 +1888,7 @@ packet_input(void)
 				return;
 			}
 
+//			printf("type input: %d\n", hdr->type);
 			bird_wait_info.bird_input = hdr->type;
 			bird_wait_info.bird_from = packetbuf_addr(PACKETBUF_ADDR_SENDER)->u8[0];
 
@@ -1929,6 +1960,10 @@ packet_input(void)
 				if(bird_wait_info.bird_wait_packet == bird_wait_info.bird_input)
 				{
 					PRINTF_D("recv target packet %x\n",bird_wait_info.bird_input);
+					bird_wait(0,0,0,&pc_ctimer,cpowercycle);
+				}
+				else if (bird_wait_info.bird_wait_packet == TYPE_BEACON_P && bird_wait_info.bird_input == TYPE_BEACON_ACK)
+				{
 					bird_wait(0,0,0,&pc_ctimer,cpowercycle);
 				}
 				else if (bird_wait_info.bird_wait_packet == TYPE_BEACON_SYNC_PULSE)
@@ -2030,15 +2065,12 @@ init(void)
 	bird_set_address();
 	random_init(rimeaddr_node_addr.u8[0]+RANDOM_SEED);
 	dclock_init(&dc);
-#if PLATFORM_L == MICAZ_L
-	birddata_queue_init(birdData,8,&birdQueue);
-#elif PLATFORM_L == Z1MOTE_L
-	birddata_queue_init(birdData,2*NODE_NUM,&birdQueue);
-#endif
+
 	PT_INIT(&pt);
 	PT_INIT(&pt_init);
 #if DATA_ON
 	PT_INIT(&pt_data);
+	birddata_queue_init(birdData, BIRD_QUEUE_SIZE, &birdQueue);
 #endif
 	PT_INIT(&pt_sche);
 	on();

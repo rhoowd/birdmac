@@ -26,16 +26,11 @@ char birddata_dequeue(Birdqueue* pQueue)
 	pQueue->head = ++pQueue->head % pQueue->max;
 	return 1;
 }
-char birddata_from_birdlog(char id, char pc_mode, int cycle_cnt, struct BirdLog* log,Birdqueue* pQueue)
+
+char birddata_from_data(int id, int seq, Birdqueue* pQueue)
 {
 	pQueue->queue[pQueue->tail].id = id;
-	pQueue->queue[pQueue->tail].pc_mode = pc_mode;
-	pQueue->queue[pQueue->tail].cycle_cnt = cycle_cnt;
-	pQueue->queue[pQueue->tail].onTime = log->onTime;
-	pQueue->queue[pQueue->tail].msg = log->msg;
-	pQueue->queue[pQueue->tail].beacon = log->beacon;
-	pQueue->queue[pQueue->tail].flag = 2*log->fb + log->recovery;
-	pQueue->queue[pQueue->tail].clockdrift = log->clockdrift;
+	pQueue->queue[pQueue->tail].seq = seq;
 	pQueue->tail++;
 	return 1;
 }
@@ -111,14 +106,11 @@ int birddata_recv_packet(char* packet, Birdqueue* pQueue)
 }
 void birddata_print_one_data(BirdData* data)
 {
-	printf("[data] %3d  %4d  ",data->id,data->cycle_cnt);
-	printf("%s",(data->pc_mode==1)?"PARENT":"CHILD ");
-	printf("  %6ld  %2d  %2d  ",data->onTime,data->beacon,data->msg);
-	printf("%1d  %1d  %d\n",data->flag/2%2,data->flag%2,data->clockdrift);
+	printf("[queue] %3d  %4d \n",data->id, data->seq);
 }
 void birddata_queue_print(Birdqueue* pQueue)
 {
-	printf("[data]  id cycle  mode     ontime  rb  rm f  r  drift\n");
+	printf("\n[queue]  id   seq\n");
 	int i=0;
 	for(i=pQueue->head; i%pQueue->max != pQueue->tail; i++)
 		birddata_print_one_data(&(pQueue->queue[i]));
