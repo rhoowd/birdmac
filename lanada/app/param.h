@@ -20,8 +20,8 @@
 #define BRIDGE_L			0
 
 /* time parameter */
-#define ARRIVAL_RATE		600
-#define PERIOD 					((long)1200)			//(sec)
+#define ARRIVAL_RATE		50
+#define PERIOD 					((long)60)			//(sec)
 
 #define CLOCK_RATE_L		(0.89)
 #define PERIOD_MINUTE			(PERIOD/60)				//(min)
@@ -38,7 +38,7 @@
 	#define WAIT_ACK_TIME			3*CLOCK_SECOND/128  //3*CLOCK_SECOND/128
 	#define DWELL_TIME				3*CLOCK_SECOND/128  // after parent finishes SYNC wait for additional packet for BS
 	#define WAIT_PULSE_TIME			3*CLOCK_SECOND/128	// wait time after sending BEACON_P
-	#define NEXT_WAKEUP_TIME		(60*CLOCK_SECOND)
+	#define NEXT_WAKEUP_TIME		(15*CLOCK_SECOND)
 	#define MSG_TIME_SLOT			(2 * RTIMER_ARCH_SECOND / 128)
 	#define RETRS					7
 	#define INIT_CWND				(0.002)
