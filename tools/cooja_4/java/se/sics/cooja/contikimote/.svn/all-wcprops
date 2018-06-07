@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/contikimote
+END
+ContikiProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/contikimote/ContikiProcess.java
+END
+ContikiMote.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/contikimote/ContikiMote.java
+END
+ContikiMoteInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/contikimote/ContikiMoteInterface.java
+END
+ContikiMoteType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/contikimote/ContikiMoteType.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/example
+END
+helloworld.firmware
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/example/helloworld.firmware
+END
+helloworld.ihex
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/example/helloworld.ihex
+END
+helloworld.map
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/apps/mspsim/example/helloworld.map
+END

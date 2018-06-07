@@ -336,10 +336,19 @@
  *  Mote mote, int id, String msg&#xD;
  */&#xD;
 &#xD;
-// TIMEOUT(70000);&#xD;
-TIMEOUT(1200000000);	&#xD;
+TIMEOUT(1200000000);
+
+var count = 0;
+
 while (true) {&#xD;
   log.log(time + ":" + id + ":" + msg + "\n");&#xD;
+  count = count + 1;
+  if (count%100 == 0){
+    plugin = mote.getSimulation().getGUI().getStartedPlugin("PowerTracker");
+    stats = plugin.radioStatistics();
+    log.log("PowerTracker says:\n" + stats + "\n");
+    count = 0;
+  }
   YIELD();&#xD;
 }</script>
       <active>true</active>

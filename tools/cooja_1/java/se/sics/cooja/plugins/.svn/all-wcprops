@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins
+END
+VariableWatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/VariableWatcher.java
+END
+ScriptLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/ScriptLog.java
+END
+TimeLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/TimeLine.java
+END
+SLIP.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/SLIP.java
+END
+MoteInterfaceViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/MoteInterfaceViewer.java
+END
+MoteInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/MoteInformation.java
+END
+MoteTypeInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/MoteTypeInformation.java
+END
+DGRMConfigurator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/DGRMConfigurator.java
+END
+BufferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/BufferListener.java
+END
+ScriptParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/ScriptParser.java
+END
+VisualizerSkin.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/VisualizerSkin.java
+END
+LogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/LogListener.java
+END
+EventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/EventListener.java
+END
+Notes.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/Notes.java
+END
+ScriptMote.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/ScriptMote.java
+END
+SimControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/SimControl.java
+END
+LogScriptEngine.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/LogScriptEngine.java
+END
+Visualizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/Visualizer.java
+END
+ScriptRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/ScriptRunner.java
+END
+RadioLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/RadioLogger.java
+END
+SimInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/plugins/SimInformation.java
+END

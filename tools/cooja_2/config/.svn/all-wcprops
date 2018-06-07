@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config
+END
+cooja.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/cooja.html
+END
+external_tools_linux_64.config
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/external_tools_linux_64.config
+END
+corecomm_template.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/corecomm_template.java
+END
+external_tools_freebsd.config
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/external_tools_freebsd.config
+END
+external_tools_macosx.config
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/external_tools_macosx.config
+END
+cooja_default.config
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/cooja_default.config
+END
+log4j_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/log4j_config.xml
+END
+quickhelp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/quickhelp.txt
+END
+cooja_applet.config
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/cooja_applet.config
+END
+external_tools_linux.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/external_tools_linux.config
+END
+external_tools.config
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/external_tools.config
+END
+external_tools_win32.config
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/external_tools_win32.config
+END
+cooja.policy
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/cooja.policy
+END
+test_template.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/config/test_template.c
+END

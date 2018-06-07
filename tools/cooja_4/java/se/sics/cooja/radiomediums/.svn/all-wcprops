@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums
+END
+DirectedGraphMedium.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/DirectedGraphMedium.java
+END
+UDGMConstantLoss.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/UDGMConstantLoss.java
+END
+DGRMDestinationRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/DGRMDestinationRadio.java
+END
+UDGM.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/UDGM.java
+END
+SilentRadioMedium.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/SilentRadioMedium.java
+END
+DestinationRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/DestinationRadio.java
+END
+AbstractRadioMedium.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/radiomediums/AbstractRadioMedium.java
+END

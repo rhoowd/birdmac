@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces
+END
+Clock.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Clock.java
+END
+PolledAfterActiveTicks.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/PolledAfterActiveTicks.java
+END
+Mote2MoteRelations.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Mote2MoteRelations.java
+END
+PolledBeforeActiveTicks.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/PolledBeforeActiveTicks.java
+END
+Radio.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Radio.java
+END
+Beeper.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Beeper.java
+END
+RimeAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/RimeAddress.java
+END
+LED.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/LED.java
+END
+Position.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Position.java
+END
+ApplicationSerialPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/ApplicationSerialPort.java
+END
+Battery.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Battery.java
+END
+MoteAttributes.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/MoteAttributes.java
+END
+Button.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Button.java
+END
+NoiseSourceRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/NoiseSourceRadio.java
+END
+IPAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/IPAddress.java
+END
+MoteID.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/MoteID.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/Log.java
+END
+DirectionalAntennaRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/DirectionalAntennaRadio.java
+END
+ApplicationRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/ApplicationRadio.java
+END
+CustomDataRadio.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/CustomDataRadio.java
+END
+SerialPort.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/SerialPort.java
+END
+ApplicationLED.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/ApplicationLED.java
+END
+PolledAfterAllTicks.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/PolledAfterAllTicks.java
+END
+PolledBeforeAllTicks.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/PolledBeforeAllTicks.java
+END
+PIR.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/plb-contiki/!svn/ver/37/birdmac_exp/tools/cooja/java/se/sics/cooja/interfaces/PIR.java
+END
