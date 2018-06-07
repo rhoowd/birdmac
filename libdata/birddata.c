@@ -8,10 +8,17 @@
 
 char birddata_enqueue(BirdData data,Birdqueue* pQueue)
 {
+	if (birddata_dup_check(data.id, data.seq) == 1)
+	{
+		printf("FAIL: DUP %d, %d\n",data.id, data.seq);
+		return 0;
+	}
+
     if ((pQueue->tail + 1) % pQueue->max == pQueue->head){
         printf("[error] Queue overflow.\n");
         return 0;
     }
+	birddata_dup_set(data.id, data.seq);
     pQueue->queue[pQueue->tail] = data;
     pQueue->tail = ++pQueue->tail % pQueue->max;
     return 1;
@@ -25,6 +32,20 @@ char birddata_dequeue(Birdqueue* pQueue)
 	}
 	pQueue->head = ++pQueue->head % pQueue->max;
 	return 1;
+}
+
+char birddata_dup_check(int id, int seq)
+{
+	if(dup_table[id][seq] == 0)
+		return 0;
+	else
+		return 1;
+}
+
+char birddata_dup_set(int id, int seq)
+{
+	dup_table[id][seq] = 1;
+	return 0;
 }
 
 char birddata_from_data(int id, int seq, Birdqueue* pQueue)
