@@ -10,7 +10,6 @@ char birddata_enqueue(BirdData data,Birdqueue* pQueue)
 {
 	if (birddata_dup_check(data.id, data.seq) == 1)
 	{
-		printf("FAIL: DUP %d, %d\n",data.id, data.seq);
 		return 0;
 	}
 
