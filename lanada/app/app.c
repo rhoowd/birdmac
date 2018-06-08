@@ -47,6 +47,9 @@
 #include "dev/leds.h"
 
 #include <stdio.h>
+#include <stdlib.h>
+
+#define TRAFFIC 2
 /*---------------------------------------------------------------------------*/
 PROCESS(example_unicast_process, "Example unicast");
 AUTOSTART_PROCESSES(&example_unicast_process);
@@ -59,6 +62,50 @@ recv_uc(struct unicast_conn *c, const rimeaddr_t *from)
 }
 static const struct unicast_callbacks unicast_callbacks = {recv_uc};
 static struct unicast_conn uc;
+static double rd = 0.0;
+static int rd_clock = 0;
+double
+app_randn (double mu, double sigma)
+{
+  double U1, U2, W, mult;
+  static double X1, X2;
+  static int call = 0;
+
+  if (call == 1)
+    {
+      call = !call;
+      return (mu + sigma * (double) X2);
+    }
+
+  do
+    {
+      U1 = -1 + ((double) rand () / RAND_MAX) * 2;
+      U2 = -1 + ((double) rand () / RAND_MAX) * 2;
+      W = pow (U1, 2) + pow (U2, 2);
+    }
+  while (W >= 1 || W == 0);
+
+  mult = sqrt ((-2 * log (W)) / W);
+  X1 = U1 * mult;
+  X2 = U2 * mult;
+
+  call = !call;
+
+  return (mu + sigma * (double) X1);
+}
+double app_randomness (double mu, double sigma)
+{
+	double ret=0;
+
+	while(1)
+	{
+		ret = app_randn (mu, sigma);
+		if(ret <= (PERIOD)/3 && ret >= -1*(PERIOD)/3)
+			return ret;
+	}
+	return -100;
+}
+
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(example_unicast_process, ev, data)
 {
@@ -68,24 +115,29 @@ PROCESS_THREAD(example_unicast_process, ev, data)
   static clock_time_t poisson_int;
   float rand_num;
   static int seq = 0;
+  static struct etimer et;
+  static struct etimer et_randomness;
 
   unicast_open(&uc, 146, &unicast_callbacks);
+
+  etimer_set(&et, (38-WAIT_TIME)*CLOCK_SECOND);
+  PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
+
+
   while(1) {
-    static struct etimer et;
+
     rimeaddr_t addr;
     seq++;
 
-
+# if TRAFFIC == 1
     rand_num=random_rand()/(float)RANDOM_RAND_MAX;
     poisson_int = (-ARRIVAL_RATE) * logf(rand_num) * CLOCK_SECOND;
     if(poisson_int == 0)
     	poisson_int = 1;
-//    etimer_set(&et, poisson_int);
 
     etimer_set(&et, ARRIVAL_RATE*CLOCK_SECOND);
     PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
 
-    //  packetbuf_copyfrom("Hello", 5);
     packetbuf_copyfrom(&seq, sizeof(int));
     addr.u8[0] = 1;
     addr.u8[1] = 0;
@@ -95,6 +147,26 @@ PROCESS_THREAD(example_unicast_process, ev, data)
     	unicast_send(&uc, &addr);
     }
 
+# elif TRAFFIC == 2
+    etimer_set(&et, PERIOD*CLOCK_SECOND);
+    rd = app_randomness(0.0, VARIANCE);
+    rd_clock = (int)(rd * CLOCK_SECOND);
+
+    etimer_set(&et_randomness, PERIOD/2*CLOCK_SECOND + rd_clock);
+    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et_randomness));
+	leds_on(LEDS_BLUE);
+
+    packetbuf_copyfrom(&seq, sizeof(int));
+    addr.u8[0] = 1;
+    addr.u8[1] = 0;
+
+    if(!rimeaddr_cmp(&addr, &rimeaddr_node_addr)) {
+    	printf("app: DATA id:%04d from:%03d\n", seq, rimeaddr_node_addr.u8[0]);
+    	unicast_send(&uc, &addr);
+    }
+
+    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&et));
+# endif
   }
 
   PROCESS_END();

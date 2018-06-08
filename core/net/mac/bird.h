@@ -124,6 +124,23 @@ double randtn (double mu, double sigma)
 	}
 	return -100;
 }
+
+double randomness (double mu, double sigma)
+{
+	double ret=0;
+
+	while(1)
+	{
+		ret = randn (mu, sigma);
+		if(ret <= (PERIOD)/2 && ret >= -1*(PERIOD)/2)
+		{
+			printf("FAIL ret %f %f %f\n", mu, sigma, ret);
+			return -0.1;
+//			return ret;
+		}
+	}
+	return -100;
+}
 #endif /* DRIFT_NORMAL */
 
 #endif /* CORE_NET_MAC_BIRD_H_ */

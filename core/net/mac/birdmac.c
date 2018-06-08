@@ -1065,7 +1065,11 @@ bird_data(void *ptr)
 			bird_wait(DATA_SLOT,0,0,&data_ctimer,bird_data);
 			PT_YIELD(&pt_data);
 			radio_off();
-
+			if(topo_info.tree_state == SINK /*|| topo_info.bridge == 1*/)
+			{
+				birddata_queue_print(&birdQueue);
+				birddata_queue_clear(&birdQueue);
+			}
 			leds_off(7);
 			leds_on(LEDS_BLUE);
 			bird_wait(DATA_SLOT,0,0,&data_ctimer,bird_data);
@@ -1107,9 +1111,10 @@ bird_data(void *ptr)
 		radio_off();
 
 		if(topo_info.tree_state == SINK /*|| topo_info.bridge == 1*/)
+		{
 			birddata_queue_print(&birdQueue);
-
-		birddata_queue_clear(&birdQueue);
+			birddata_queue_clear(&birdQueue);
+		}
 
 	}
 
